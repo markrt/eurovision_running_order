@@ -1,0 +1,1067 @@
+to_country,juror,a,b,c,d,e,jury_rank,televoting_rank,from_country
+Malta,NA,NA,NA,NA,NA,NA,1,19,Belarus
+Albania,NA,NA,NA,NA,NA,NA,14,22,Belarus
+Czech Republic,NA,NA,NA,NA,NA,NA,11,15,Belarus
+Germany,NA,NA,NA,NA,NA,NA,23,23,Belarus
+Russia,NA,NA,NA,NA,NA,NA,10,1,Belarus
+Denmark,NA,NA,NA,NA,NA,NA,15,12,Belarus
+San Marino,NA,NA,NA,NA,NA,NA,19,10,Belarus
+North Macedonia,NA,NA,NA,NA,NA,NA,2,18,Belarus
+Sweden,NA,NA,NA,NA,NA,NA,9,11,Belarus
+Slovenia,NA,NA,NA,NA,NA,NA,12,6,Belarus
+Cyprus,NA,NA,NA,NA,NA,NA,3,20,Belarus
+Netherlands,NA,NA,NA,NA,NA,NA,5,2,Belarus
+Greece,NA,NA,NA,NA,NA,NA,8,24,Belarus
+Israel,NA,NA,NA,NA,NA,NA,25,21,Belarus
+Norway,NA,NA,NA,NA,NA,NA,22,3,Belarus
+United Kingdom,NA,NA,NA,NA,NA,NA,20,25,Belarus
+Iceland,NA,NA,NA,NA,NA,NA,17,4,Belarus
+Estonia,NA,NA,NA,NA,NA,NA,24,13,Belarus
+Belarus,NA,NA,NA,NA,NA,NA,,,Belarus
+Azerbaijan,NA,NA,NA,NA,NA,NA,6,5,Belarus
+France,NA,NA,NA,NA,NA,NA,13,14,Belarus
+Italy,NA,NA,NA,NA,NA,NA,4,8,Belarus
+Serbia,NA,NA,NA,NA,NA,NA,18,16,Belarus
+Switzerland,NA,NA,NA,NA,NA,NA,7,7,Belarus
+Australia,NA,NA,NA,NA,NA,NA,16,9,Belarus
+Spain,NA,NA,NA,NA,NA,NA,21,17,Belarus
+Australia,NA,4,11,12,17,2,2 points 9th,1 point 10th,Albania
+Azerbaijan,NA,9,4,2,1,8,8 points 3rd,3 points 8th,Albania
+Belarus,NA,16,20,16,22,23,21st,25th,Albania
+Cyprus,NA,22,3,3,3,10,7 points 4th,15th,Albania
+Czechia,NA,10,18,24,8,17,16th,24th,Albania
+Denmark,NA,6,19,19,11,18,14th,21st,Albania
+Estonia,NA,20,21,18,16,22,22nd,16th,Albania
+France,NA,3,10,10,7,6,3 points 8th,19th,Albania
+Germany,NA,7,17,15,9,9,12th,17th,Albania
+Greece,NA,14,1,4,21,14,4 points 7th,2 points 9th,Albania
+Iceland,NA,23,23,17,25,24,23rd,22nd,Albania
+Israel,NA,21,9,9,19,11,13th,12th,Albania
+Italy,NA,5,6,5,5,7,5 points 6th,8 points 3rd,Albania
+Malta,NA,18,12,11,15,16,17th,11th,Albania
+Netherlands,NA,15,8,8,10,4,11th,7 points 4th,Albania
+North Macedonia,NA,2,5,6,4,1,12 points 1st,6 points 5th,Albania
+Norway,NA,13,15,21,20,20,19th,5 points 6th,Albania
+Russia,NA,12,7,7,12,5,1 point 10th,12 points 1st,Albania
+San Marino,NA,25,25,25,24,25,25th,10 points 2nd,Albania
+Serbia,NA,17,24,23,18,15,20th,23rd,Albania
+Slovenia,NA,8,13,20,14,13,15th,18th,Albania
+Spain,NA,24,22,22,23,21,24th,14th,Albania
+Sweden,NA,1,14,13,2,12,6 points 5th,13th,Albania
+Switzerland,NA,19,2,1,6,3,10 points 2nd,4 points 7th,Albania
+United Kingdom,NA,11,16,14,13,19,18th,20th,Albania
+Albania,NA,25,24,24,20,24,25th,24th,Armenia
+Australia,NA,19,15,22,13,14,18th,1 point 10th,Armenia
+Azerbaijan,NA,26,26,26,26,26,26th,18th,Armenia
+Belarus,NA,6,9,13,15,16,1 point 10th,20th,Armenia
+Cyprus,NA,8,21,14,24,6,14th,16th,Armenia
+Czechia,NA,22,8,11,16,1,3 points 8th,19th,Armenia
+Denmark,NA,21,11,16,21,20,19th,14th,Armenia
+Estonia,NA,15,20,20,19,22,23rd,17th,Armenia
+France,NA,14,18,8,6,19,13th,4 points 7th,Armenia
+Germany,NA,17,12,17,14,18,17th,22nd,Armenia
+Greece,NA,18,22,18,25,25,24th,15th,Armenia
+Iceland,NA,11,25,25,18,21,21st,3 points 8th,Armenia
+Israel,NA,10,13,10,17,9,15th,26th,Armenia
+Italy,NA,5,17,1,4,7,8 points 3rd,7 points 4th,Armenia
+Malta,NA,9,5,5,8,5,4 points 7th,6 points 5th,Armenia
+Netherlands,NA,4,4,6,3,12,6 points 5th,10 points 2nd,Armenia
+North Macedonia,NA,7,1,3,2,4,10 points 2nd,11th,Armenia
+Norway,NA,24,6,21,12,8,12th,5 points 6th,Armenia
+Russia,NA,1,7,4,10,17,5 points 6th,12 points 1st,Armenia
+San Marino,NA,12,16,23,22,23,22nd,23rd,Armenia
+Serbia,NA,20,19,15,11,11,16th,21st,Armenia
+Slovenia,NA,23,14,9,7,10,11th,12th,Armenia
+Spain,NA,13,23,19,23,13,20th,13th,Armenia
+Sweden,NA,2,2,2,1,2,12 points 1st,2 points 9th,Armenia
+Switzerland,NA,3,10,7,5,3,7 points 4th,8 points 3rd,Armenia
+United Kingdom,NA,16,3,12,9,15,2 points 9th,25th,Armenia
+Albania,NA,14,14,24,21,20,21st,23rd,Australia
+Azerbaijan,NA,9,15,4,10,18,2 points 9th,1 point 10th,Australia
+Belarus,NA,19,24,21,19,14,23rd,21st,Australia
+Cyprus,NA,16,23,20,14,11,20th,14th,Australia
+Czechia,NA,13,13,11,1,6,5 points 6th,2 points 9th,Australia
+Denmark,NA,21,12,13,6,16,17th,17th,Australia
+Estonia,NA,24,25,23,25,23,25th,12th,Australia
+France,NA,1,1,9,3,3,10 points 2nd,3 points 8th,Australia
+Germany,NA,12,2,12,24,19,3 points 8th,25th,Australia
+Greece,NA,15,16,3,22,10,11th,15th,Australia
+Iceland,NA,2,6,16,7,1,8 points 3rd,10 points 2nd,Australia
+Israel,NA,8,10,8,18,13,13th,20th,Australia
+Italy,NA,7,7,17,15,22,16th,5 points 6th,Australia
+Malta,NA,20,8,18,16,12,18th,4 points 7th,Australia
+Netherlands,NA,5,5,2,13,15,6 points 5th,6 points 5th,Australia
+North Macedonia,NA,4,4,14,5,4,7 points 4th,13th,Australia
+Norway,NA,10,11,15,4,21,12th,12 points 1st,Australia
+Russia,NA,11,9,10,9,5,4 points 7th,16th,Australia
+San Marino,NA,25,21,25,11,24,22nd,18th,Australia
+Serbia,NA,6,19,7,23,7,1 point 10th,19th,Australia
+Slovenia,NA,22,17,19,8,25,19th,24th,Australia
+Spain,NA,18,20,6,12,9,15th,11th,Australia
+Sweden,NA,3,3,1,2,2,12 points 1st,8 points 3rd,Australia
+Switzerland,NA,23,18,5,17,8,14th,7 points 4th,Australia
+United Kingdom,NA,17,22,22,20,17,24th,22nd,Australia
+Albania,NA,24,17,19,18,17,24th,11th,Austria
+Australia,NA,5,9,25,22,12,13th,3 points 8th,Austria
+Azerbaijan,NA,10,12,5,14,6,4 points 7th,1 point 10th,Austria
+Belarus,NA,11,16,23,10,14,16th,25th,Austria
+Cyprus,NA,2,20,24,21,16,11th,22nd,Austria
+Czechia,NA,16,11,10,4,9,3 points 8th,18th,Austria
+Denmark,NA,18,13,14,9,18,17th,13th,Austria
+Estonia,NA,15,21,22,23,19,25th,15th,Austria
+France,NA,9,7,6,8,7,5 points 6th,14th,Austria
+Germany,NA,21,6,16,13,8,14th,17th,Austria
+Greece,NA,23,25,26,24,24,26th,26th,Austria
+Iceland,NA,19,26,21,12,26,21st,6 points 5th,Austria
+Israel,NA,25,19,13,20,23,22nd,20th,Austria
+Italy,NA,14,15,1,2,3,7 points 4th,10 points 2nd,Austria
+Malta,NA,17,14,18,5,10,15th,21st,Austria
+Netherlands,NA,12,3,3,3,1,8 points 3rd,7 points 4th,Austria
+North Macedonia,NA,1,1,7,7,2,12 points 1st,12th,Austria
+Norway,NA,8,5,12,15,15,1 point 10th,8 points 3rd,Austria
+Russia,NA,4,10,15,16,21,12th,5 points 6th,Austria
+San Marino,NA,26,24,8,26,22,20th,23rd,Austria
+Serbia,NA,3,8,20,17,13,2 points 9th,4 points 7th,Austria
+Slovenia,NA,22,22,9,19,11,18th,2 points 9th,Austria
+Spain,NA,13,23,17,25,25,23rd,19th,Austria
+Sweden,NA,7,4,2,6,5,6 points 5th,16th,Austria
+Switzerland,NA,6,2,4,1,4,10 points 2nd,12 points 1st,Austria
+United Kingdom,NA,20,18,11,11,20,19th,24th,Austria
+Albania,NA,4,9,5,6,9,7 points 4th,16th,Azerbaijan
+Australia,NA,20,4,3,23,12,2 points 9th,11th,Azerbaijan
+Belarus,NA,15,13,8,7,4,1 point 10th,5 points 6th,Azerbaijan
+Cyprus,NA,10,12,7,10,3,3 points 8th,17th,Azerbaijan
+Czechia,NA,19,21,22,2,17,14th,18th,Azerbaijan
+Denmark,NA,14,18,16,17,20,19th,19th,Azerbaijan
+Estonia,NA,17,24,18,20,23,23rd,21st,Azerbaijan
+France,NA,24,19,17,22,25,24th,14th,Azerbaijan
+Germany,NA,25,23,21,18,16,22nd,23rd,Azerbaijan
+Greece,NA,12,3,14,3,8,6 points 5th,25th,Azerbaijan
+Iceland,NA,3,5,24,24,14,11th,12th,Azerbaijan
+Israel,NA,23,15,25,16,21,21st,15th,Azerbaijan
+Italy,NA,8,7,11,9,2,5 points 6th,6 points 5th,Azerbaijan
+Malta,NA,6,2,9,4,6,10 points 2nd,4 points 7th,Azerbaijan
+Netherlands,NA,11,14,13,11,10,16th,7 points 4th,Azerbaijan
+North Macedonia,NA,5,11,4,5,5,8 points 3rd,3 points 8th,Azerbaijan
+Norway,NA,16,16,15,14,19,18th,1 point 10th,Azerbaijan
+Russia,NA,1,1,1,1,1,12 points 1st,12 points 1st,Azerbaijan
+San Marino,NA,7,17,10,13,7,13th,10 points 2nd,Azerbaijan
+Serbia,NA,18,20,23,15,13,20th,22nd,Azerbaijan
+Slovenia,NA,2,22,2,25,15,4 points 7th,13th,Azerbaijan
+Spain,NA,21,8,19,8,22,17th,2 points 9th,Azerbaijan
+Sweden,NA,13,10,6,19,18,15th,20th,Azerbaijan
+Switzerland,NA,9,6,12,12,11,12th,8 points 3rd,Azerbaijan
+United Kingdom,NA,22,25,20,21,24,25th,24th,Azerbaijan
+Albania,NA,26,26,25,20,26,26th,12th,Belgium
+Australia,NA,9,19,2,4,5,4 points 7th,4 points 7th,Belgium
+Azerbaijan,NA,8,8,23,15,12,12th,14th,Belgium
+Belarus,NA,14,16,11,22,18,19th,25th,Belgium
+Cyprus,NA,6,6,13,16,8,2 points 9th,20th,Belgium
+Czechia,NA,5,7,4,9,4,5 points 6th,16th,Belgium
+Denmark,NA,17,15,3,8,16,1 point 10th,13th,Belgium
+Estonia,NA,12,14,14,10,14,14th,11th,Belgium
+France,NA,2,11,6,5,3,8 points 3rd,10 points 2nd,Belgium
+Germany,NA,23,24,16,17,22,24th,26th,Belgium
+Greece,NA,16,2,22,26,7,3 points 8th,19th,Belgium
+Iceland,NA,3,4,26,2,2,10 points 2nd,3 points 8th,Belgium
+Israel,NA,22,20,12,21,19,22nd,17th,Belgium
+Italy,NA,1,1,9,1,1,12 points 1st,8 points 3rd,Belgium
+Malta,NA,15,9,17,19,13,17th,21st,Belgium
+Netherlands,NA,13,3,5,3,6,6 points 5th,12 points 1st,Belgium
+North Macedonia,NA,20,25,7,23,23,18th,18th,Belgium
+Norway,NA,24,23,10,7,20,15th,7 points 4th,Belgium
+Russia,NA,18,18,20,12,25,21st,1 point 10th,Belgium
+San Marino,NA,25,17,24,25,24,25th,22nd,Belgium
+Serbia,NA,21,21,21,14,17,23rd,23rd,Belgium
+Slovenia,NA,4,13,15,13,10,11th,15th,Belgium
+Spain,NA,10,22,18,24,21,20th,6 points 5th,Belgium
+Sweden,NA,19,12,8,11,15,13th,2 points 9th,Belgium
+Switzerland,NA,7,5,1,6,9,7 points 4th,5 points 6th,Belgium
+United Kingdom,NA,11,10,19,18,11,16th,24th,Belgium
+Albania,NA,8,12,17,11,13,15th,1 point 10th,Croatia
+Australia,NA,10,11,9,9,14,11th,14th,Croatia
+Azerbaijan,NA,15,14,23,7,7,13th,13th,Croatia
+Belarus,NA,18,23,10,17,21,19th,24th,Croatia
+Cyprus,NA,14,13,13,23,15,18th,21st,Croatia
+Czechia,NA,5,7,2,3,5,7 points 4th,20th,Croatia
+Denmark,NA,24,25,22,19,17,24th,17th,Croatia
+Estonia,NA,3,19,12,18,18,1 point 10th,15th,Croatia
+France,NA,6,6,21,15,6,3 points 8th,18th,Croatia
+Germany,NA,20,18,14,20,20,21st,22nd,Croatia
+Greece,NA,23,21,19,13,23,22nd,26th,Croatia
+Iceland,NA,26,22,26,25,25,26th,3 points 8th,Croatia
+Israel,NA,22,15,11,21,24,20th,23rd,Croatia
+Italy,NA,2,3,7,1,1,12 points 1st,12 points 1st,Croatia
+Malta,NA,16,10,20,6,10,12th,19th,Croatia
+Netherlands,NA,7,9,16,2,2,6 points 5th,4 points 7th,Croatia
+North Macedonia,NA,1,2,3,4,4,10 points 2nd,7 points 4th,Croatia
+Norway,NA,21,24,15,22,22,23rd,5 points 6th,Croatia
+Russia,NA,12,8,6,8,11,2 points 9th,12th,Croatia
+San Marino,NA,25,26,18,26,26,25th,2 points 9th,Croatia
+Serbia,NA,4,4,24,24,12,4 points 7th,8 points 3rd,Croatia
+Slovenia,NA,13,16,25,14,9,17th,10 points 2nd,Croatia
+Spain,NA,19,20,5,12,19,16th,16th,Croatia
+Sweden,NA,11,5,8,10,8,5 points 6th,11th,Croatia
+Switzerland,NA,9,1,1,5,3,8 points 3rd,6 points 5th,Croatia
+United Kingdom,NA,17,17,4,16,16,14th,25th,Croatia
+Albania,NA,14,14,6,16,3,2 points 9th,23rd,Cyprus
+Australia,NA,15,13,16,7,10,15th,2 points 9th,Cyprus
+Azerbaijan,NA,6,7,5,9,6,6 points 5th,17th,Cyprus
+Belarus,NA,19,22,22,8,20,18th,15th,Cyprus
+Czechia,NA,16,19,25,19,16,21st,16th,Cyprus
+Denmark,NA,22,23,14,20,21,22nd,20th,Cyprus
+Estonia,NA,17,18,24,23,19,24th,13th,Cyprus
+France,NA,23,3,9,5,18,4 points 7th,3 points 8th,Cyprus
+Germany,NA,21,24,15,24,22,25th,25th,Cyprus
+Greece,NA,2,1,2,2,1,12 points 1st,12 points 1st,Cyprus
+Iceland,NA,13,20,18,3,7,11th,12th,Cyprus
+Israel,NA,25,8,23,22,25,19th,5 points 6th,Cyprus
+Italy,NA,4,9,1,14,12,8 points 3rd,8 points 3rd,Cyprus
+Malta,NA,8,4,8,10,15,3 points 8th,14th,Cyprus
+Netherlands,NA,10,11,12,4,5,5 points 6th,6 points 5th,Cyprus
+North Macedonia,NA,9,6,11,15,13,13th,21st,Cyprus
+Norway,NA,18,17,21,6,24,17th,1 point 10th,Cyprus
+Russia,NA,1,2,4,1,2,10 points 2nd,10 points 2nd,Cyprus
+San Marino,NA,7,5,10,25,14,12th,22nd,Cyprus
+Serbia,NA,12,15,19,12,8,16th,18th,Cyprus
+Slovenia,NA,24,21,20,17,17,23rd,19th,Cyprus
+Spain,NA,5,12,17,21,11,14th,4 points 7th,Cyprus
+Sweden,NA,3,10,3,11,9,7 points 4th,11th,Cyprus
+Switzerland,NA,11,16,7,13,4,1 point 10th,7 points 4th,Cyprus
+United Kingdom,NA,20,25,13,18,23,20th,24th,Cyprus
+Albania,NA,18,21,20,16,19,20th,22nd,Czechia
+Australia,NA,15,6,13,21,20,15th,8 points 3rd,Czechia
+Azerbaijan,NA,5,9,8,1,8,5 points 6th,7 points 4th,Czechia
+Belarus,NA,21,19,15,13,10,17th,19th,Czechia
+Cyprus,NA,13,5,18,15,9,12th,20th,Czechia
+Denmark,NA,11,16,19,6,15,13th,11th,Czechia
+Estonia,NA,12,20,4,7,13,1 point 10th,1 point 10th,Czechia
+France,NA,17,8,5,14,5,2 points 9th,17th,Czechia
+Germany,NA,14,14,11,17,16,16th,23rd,Czechia
+Greece,NA,19,15,16,23,14,19th,24th,Czechia
+Iceland,NA,4,7,14,5,24,4 points 7th,6 points 5th,Czechia
+Israel,NA,23,23,22,19,18,21st,3 points 8th,Czechia
+Italy,NA,6,1,9,10,1,8 points 3rd,2 points 9th,Czechia
+Malta,NA,7,12,10,11,4,3 points 8th,21st,Czechia
+Netherlands,NA,8,4,3,3,7,6 points 5th,4 points 7th,Czechia
+North Macedonia,NA,2,10,1,8,6,7 points 4th,12th,Czechia
+Norway,NA,24,22,21,22,22,24th,10 points 2nd,Czechia
+Russia,NA,22,25,23,24,17,22nd,12 points 1st,Czechia
+San Marino,NA,25,18,24,25,25,25th,18th,Czechia
+Serbia,NA,16,17,17,12,21,18th,13th,Czechia
+Slovenia,NA,3,3,6,2,2,10 points 2nd,14th,Czechia
+Spain,NA,20,24,25,20,23,23rd,15th,Czechia
+Sweden,NA,1,2,2,4,3,12 points 1st,16th,Czechia
+Switzerland,NA,9,11,12,18,12,14th,5 points 6th,Czechia
+United Kingdom,NA,10,13,7,9,11,11th,25th,Czechia
+Albania,NA,25,23,11,14,21,21st,22nd,Denmark
+Australia,NA,18,17,21,15,13,22nd,2 points 9th,Denmark
+Azerbaijan,NA,13,3,5,6,12,4 points 7th,5 points 6th,Denmark
+Belarus,NA,20,18,20,20,20,24th,19th,Denmark
+Cyprus,NA,12,19,17,23,22,23rd,21st,Denmark
+Czechia,NA,4,5,9,18,16,11th,11th,Denmark
+Estonia,NA,2,8,10,8,11,2 points 9th,8 points 3rd,Denmark
+France,NA,22,15,6,17,17,15th,14th,Denmark
+Germany,NA,9,11,7,3,2,8 points 3rd,17th,Denmark
+Greece,NA,23,25,25,25,24,25th,25th,Denmark
+Iceland,NA,19,20,8,21,25,18th,4 points 7th,Denmark
+Israel,NA,21,21,14,16,10,17th,23rd,Denmark
+Italy,NA,8,16,1,9,18,1 point 10th,3 points 8th,Denmark
+Malta,NA,24,10,22,13,15,16th,12th,Denmark
+Netherlands,NA,14,2,4,5,9,7 points 4th,7 points 4th,Denmark
+North Macedonia,NA,3,9,3,7,4,10 points 2nd,18th,Denmark
+Norway,NA,5,7,19,11,1,5 points 6th,12 points 1st,Denmark
+Russia,NA,11,6,18,2,7,3 points 8th,13th,Denmark
+San Marino,NA,7,13,23,24,8,14th,20th,Denmark
+Serbia,NA,16,22,15,12,19,19th,24th,Denmark
+Slovenia,NA,17,24,2,22,23,13th,16th,Denmark
+Spain,NA,15,14,24,19,14,20th,1 point 10th,Denmark
+Sweden,NA,1,1,12,1,3,12 points 1st,10 points 2nd,Denmark
+Switzerland,NA,6,4,13,4,6,6 points 5th,6 points 5th,Denmark
+United Kingdom,NA,10,12,16,10,5,12th,15th,Denmark
+Albania,NA,23,23,23,17,11,23rd,25th,Estonia
+Australia,NA,25,3,25,16,19,14th,2 points 9th,Estonia
+Azerbaijan,NA,13,2,5,4,9,5 points 6th,1 point 10th,Estonia
+Belarus,NA,16,12,13,3,18,1 point 10th,15th,Estonia
+Cyprus,NA,10,20,7,10,13,13th,19th,Estonia
+Czechia,NA,6,10,3,2,10,8 points 3rd,13th,Estonia
+Denmark,NA,2,13,12,15,21,2 points 9th,6 points 5th,Estonia
+France,NA,9,8,11,5,16,3 points 8th,17th,Estonia
+Germany,NA,15,16,24,18,8,19th,23rd,Estonia
+Greece,NA,18,22,19,21,15,24th,22nd,Estonia
+Iceland,NA,14,11,6,13,22,16th,5 points 6th,Estonia
+Israel,NA,24,21,20,22,20,25th,24th,Estonia
+Italy,NA,12,7,17,23,12,17th,11th,Estonia
+Malta,NA,21,17,14,7,23,18th,16th,Estonia
+Netherlands,NA,7,5,2,20,4,7 points 4th,8 points 3rd,Estonia
+North Macedonia,NA,17,18,16,19,2,11th,18th,Estonia
+Norway,NA,22,14,15,11,17,20th,10 points 2nd,Estonia
+Russia,NA,5,6,8,14,1,6 points 5th,12 points 1st,Estonia
+San Marino,NA,20,25,22,9,25,22nd,12th,Estonia
+Serbia,NA,4,9,18,25,5,4 points 7th,20th,Estonia
+Slovenia,NA,11,19,9,8,7,12th,7 points 4th,Estonia
+Spain,NA,8,24,21,24,24,21st,14th,Estonia
+Sweden,NA,3,1,1,1,3,12 points 1st,3 points 8th,Estonia
+Switzerland,NA,1,4,4,6,14,10 points 2nd,4 points 7th,Estonia
+United Kingdom,NA,19,15,10,12,6,15th,21st,Estonia
+Albania,NA,21,22,23,15,26,23rd,19th,Finland
+Australia,NA,1,1,1,8,2,10 points 2nd,6 points 5th,Finland
+Azerbaijan,NA,8,15,11,4,12,2 points 9th,16th,Finland
+Belarus,NA,22,24,25,24,20,25th,23rd,Finland
+Cyprus,NA,24,23,22,25,18,24th,21st,Finland
+Czechia,NA,10,10,8,9,6,4 points 7th,15th,Finland
+Denmark,NA,18,12,10,10,14,17th,11th,Finland
+Estonia,NA,20,5,17,13,9,13th,8 points 3rd,Finland
+France,NA,16,17,13,16,19,21st,13th,Finland
+Germany,NA,15,19,6,21,21,18th,26th,Finland
+Greece,NA,17,7,21,11,8,15th,24th,Finland
+Iceland,NA,12,11,9,12,7,12th,12 points 1st,Finland
+Israel,NA,19,14,7,23,22,19th,20th,Finland
+Italy,NA,5,25,19,2,24,5 points 6th,3 points 8th,Finland
+Malta,NA,11,16,15,3,17,1 point 10th,22nd,Finland
+Netherlands,NA,2,2,3,7,3,8 points 3rd,5 points 6th,Finland
+North Macedonia,NA,6,8,4,18,4,7 points 4th,17th,Finland
+Norway,NA,13,6,18,22,10,16th,10 points 2nd,Finland
+Russia,NA,23,9,12,20,5,14th,4 points 7th,Finland
+San Marino,NA,25,26,24,26,25,26th,14th,Finland
+Serbia,NA,9,4,16,14,15,11th,18th,Finland
+Slovenia,NA,7,20,5,6,11,6 points 5th,1 point 10th,Finland
+Spain,NA,26,13,26,19,23,22nd,12th,Finland
+Sweden,NA,3,3,2,1,1,12 points 1st,7 points 4th,Finland
+Switzerland,NA,4,21,14,5,16,3 points 8th,2 points 9th,Finland
+United Kingdom,NA,14,18,20,17,13,20th,25th,Finland
+Albania,NA,6,12,20,14,16,13th,13th,France
+Australia,NA,18,24,10,1,5,4 points 7th,6 points 5th,France
+Azerbaijan,NA,4,4,13,5,4,6 points 5th,12th,France
+Belarus,NA,24,8,7,19,21,14th,21st,France
+Cyprus,NA,9,9,4,17,17,11th,17th,France
+Czechia,NA,13,3,6,21,11,3 points 8th,20th,France
+Denmark,NA,8,13,9,8,7,1 point 10th,4 points 7th,France
+Estonia,NA,12,17,19,12,18,20th,14th,France
+Germany,NA,16,23,11,7,22,17th,23rd,France
+Greece,NA,14,22,15,23,15,23rd,22nd,France
+Iceland,NA,10,1,1,20,24,5 points 6th,1 point 10th,France
+Israel,NA,21,11,18,11,6,12th,12 points 1st,France
+Italy,NA,1,2,21,3,12,8 points 3rd,10 points 2nd,France
+Malta,NA,17,14,8,22,9,15th,19th,France
+Netherlands,NA,2,6,5,2,1,12 points 1st,5 points 6th,France
+North Macedonia,NA,3,15,2,15,2,7 points 4th,18th,France
+Norway,NA,23,20,24,18,14,24th,8 points 3rd,France
+Russia,NA,15,21,14,13,13,19th,3 points 8th,France
+San Marino,NA,22,25,25,25,25,25th,25th,France
+Serbia,NA,19,16,17,10,8,16th,11th,France
+Slovenia,NA,25,10,16,24,23,22nd,16th,France
+Spain,NA,11,19,22,16,19,21st,7 points 4th,France
+Sweden,NA,5,7,3,4,3,10 points 2nd,15th,France
+Switzerland,NA,7,5,12,9,10,2 points 9th,2 points 9th,France
+United Kingdom,NA,20,18,23,6,20,18th,24th,France
+Albania,NA,16,15,20,19,23,21st,21st,Georgia
+Australia,NA,13,22,16,11,14,18th,16th,Georgia
+Azerbaijan,NA,3,2,2,3,2,10 points 2nd,7 points 4th,Georgia
+Belarus,NA,11,14,17,18,24,19th,11th,Georgia
+Cyprus,NA,8,4,4,14,6,6 points 5th,12 points 1st,Georgia
+Czechia,NA,2,3,1,1,1,12 points 1st,17th,Georgia
+Denmark,NA,1,17,9,10,3,7 points 4th,22nd,Georgia
+Estonia,NA,19,13,11,12,5,13th,14th,Georgia
+France,NA,14,5,7,6,9,5 points 6th,12th,Georgia
+Germany,NA,5,19,23,22,20,16th,25th,Georgia
+Greece,NA,6,18,12,13,7,11th,20th,Georgia
+Iceland,NA,25,24,19,20,12,20th,3 points 8th,Georgia
+Israel,NA,23,23,24,25,17,24th,4 points 7th,Georgia
+Italy,NA,20,7,14,17,8,14th,1 point 10th,Georgia
+Malta,NA,7,16,8,9,22,12th,24th,Georgia
+Netherlands,NA,18,1,3,4,4,8 points 3rd,5 points 6th,Georgia
+North Macedonia,NA,9,10,15,16,21,17th,2 points 9th,Georgia
+Norway,NA,24,20,21,21,16,23rd,18th,Georgia
+Russia,NA,26,26,26,26,26,26th,8 points 3rd,Georgia
+San Marino,NA,21,25,25,24,25,25th,10 points 2nd,Georgia
+Serbia,NA,12,11,13,15,11,15th,23rd,Georgia
+Slovenia,NA,4,9,10,5,18,4 points 7th,15th,Georgia
+Spain,NA,22,21,22,23,15,22nd,19th,Georgia
+Sweden,NA,17,6,6,7,19,2 points 9th,6 points 5th,Georgia
+Switzerland,NA,15,8,18,2,10,3 points 8th,13th,Georgia
+United Kingdom,NA,10,12,5,8,13,1 point 10th,26th,Georgia
+Albania,NA,19,22,21,6,14,14th,16th,Germany
+Australia,NA,4,2,3,5,1,10 points 2nd,5 points 6th,Germany
+Azerbaijan,NA,10,18,25,9,9,12th,13th,Germany
+Belarus,NA,16,7,8,21,19,11th,23rd,Germany
+Cyprus,NA,15,11,14,22,16,15th,21st,Germany
+Czechia,NA,12,20,16,16,13,16th,18th,Germany
+Denmark,NA,11,15,9,11,10,1 point 10th,4 points 7th,Germany
+Estonia,NA,22,21,22,14,24,23rd,14th,Germany
+France,NA,6,9,12,3,12,4 points 7th,11th,Germany
+Greece,NA,21,12,18,20,25,22nd,19th,Germany
+Iceland,NA,20,13,20,15,17,19th,2 points 9th,Germany
+Israel,NA,23,23,23,18,21,25th,20th,Germany
+Italy,NA,1,1,1,2,2,12 points 1st,6 points 5th,Germany
+Malta,NA,8,8,6,13,7,3 points 8th,24th,Germany
+Netherlands,NA,3,4,5,4,3,8 points 3rd,7 points 4th,Germany
+North Macedonia,NA,5,3,7,1,5,7 points 4th,15th,Germany
+Norway,NA,7,5,11,10,4,5 points 6th,12 points 1st,Germany
+Russia,NA,18,19,19,8,8,13th,8 points 3rd,Germany
+San Marino,NA,25,24,24,25,15,24th,25th,Germany
+Serbia,NA,17,17,10,23,20,18th,17th,Germany
+Slovenia,NA,14,10,17,19,23,17th,3 points 8th,Germany
+Spain,NA,13,25,13,24,22,20th,12th,Germany
+Sweden,NA,9,14,4,12,11,2 points 9th,1 point 10th,Germany
+Switzerland,NA,2,6,2,7,6,6 points 5th,10 points 2nd,Germany
+United Kingdom,NA,24,16,15,17,18,21st,22nd,Germany
+Albania,NA,11,7,7,7,14,3 points 8th,5 points 6th,Greece
+Australia,NA,10,15,20,3,9,2 points 9th,3 points 8th,Greece
+Azerbaijan,NA,4,8,5,5,12,8 points 3rd,12th,Greece
+Belarus,NA,19,19,13,13,7,16th,17th,Greece
+Cyprus,NA,1,1,2,2,1,12 points 1st,12 points 1st,Greece
+Czechia,NA,22,17,3,17,21,13th,20th,Greece
+Denmark,NA,25,22,23,23,25,25th,19th,Greece
+Estonia,NA,21,24,16,12,13,21st,16th,Greece
+France,NA,12,4,21,20,22,15th,1 point 10th,Greece
+Germany,NA,23,12,14,24,24,23rd,24th,Greece
+Iceland,NA,18,16,22,6,15,17th,2 points 9th,Greece
+Israel,NA,15,13,4,22,16,14th,23rd,Greece
+Italy,NA,3,10,15,14,3,7 points 4th,10 points 2nd,Greece
+Malta,NA,13,3,8,9,6,5 points 6th,22nd,Greece
+Netherlands,NA,6,11,10,10,17,12th,6 points 5th,Greece
+North Macedonia,NA,16,5,12,8,11,1 point 10th,15th,Greece
+Norway,NA,17,25,18,19,10,22nd,11th,Greece
+Russia,NA,2,2,1,1,2,10 points 2nd,8 points 3rd,Greece
+San Marino,NA,5,9,6,21,4,6 points 5th,21st,Greece
+Serbia,NA,24,14,11,18,18,20th,14th,Greece
+Slovenia,NA,20,18,9,4,5,4 points 7th,13th,Greece
+Spain,NA,8,6,17,25,8,11th,4 points 7th,Greece
+Sweden,NA,7,23,24,11,19,18th,18th,Greece
+Switzerland,NA,9,21,19,15,20,19th,7 points 4th,Greece
+United Kingdom,NA,14,20,25,16,23,24th,25th,Greece
+Albania,NA,20,20,24,24,24,25th,22nd,Hungary
+Australia,NA,24,17,17,23,16,24th,14th,Hungary
+Azerbaijan,NA,17,5,2,7,18,5 points 6th,2 points 9th,Hungary
+Belarus,NA,4,6,8,2,4,8 points 3rd,23rd,Hungary
+Cyprus,NA,11,23,16,20,19,21st,18th,Hungary
+Czechia,NA,6,3,18,3,1,12 points 1st,17th,Hungary
+Denmark,NA,5,10,7,14,3,6 points 5th,19th,Hungary
+Estonia,NA,13,16,6,11,23,16th,15th,Hungary
+France,NA,26,18,10,13,12,20th,1 point 10th,Hungary
+Germany,NA,21,15,20,10,9,19th,25th,Hungary
+Greece,NA,8,22,3,18,21,13th,24th,Hungary
+Iceland,NA,1,24,19,17,25,12th,12 points 1st,Hungary
+Israel,NA,7,25,15,19,7,15th,11th,Hungary
+Italy,NA,10,2,4,5,20,7 points 4th,4 points 7th,Hungary
+Malta,NA,15,7,26,16,10,17th,20th,Hungary
+Netherlands,NA,9,13,5,8,8,1 point 10th,8 points 3rd,Hungary
+North Macedonia,NA,14,9,1,1,5,10 points 2nd,12th,Hungary
+Norway,NA,2,12,9,22,17,11th,10 points 2nd,Hungary
+Russia,NA,16,14,21,21,14,22nd,7 points 4th,Hungary
+San Marino,NA,23,26,11,26,26,23rd,6 points 5th,Hungary
+Serbia,NA,19,11,12,12,11,18th,21st,Hungary
+Slovenia,NA,3,21,22,15,15,14th,3 points 8th,Hungary
+Spain,NA,22,19,25,25,22,26th,16th,Hungary
+Sweden,NA,18,1,14,6,13,4 points 7th,13th,Hungary
+Switzerland,NA,25,4,23,4,6,3 points 8th,5 points 6th,Hungary
+United Kingdom,NA,12,8,13,9,2,2 points 9th,26th,Hungary
+Albania,NA,25,20,24,18,23,23rd,23rd,Iceland
+Australia,NA,1,2,2,5,10,10 points 2nd,10 points 2nd,Iceland
+Azerbaijan,NA,5,7,10,9,6,4 points 7th,13th,Iceland
+Belarus,NA,18,14,16,21,19,20th,17th,Iceland
+Cyprus,NA,23,17,9,19,12,18th,19th,Iceland
+Czechia,NA,10,10,3,2,9,6 points 5th,2 points 9th,Iceland
+Denmark,NA,8,13,13,6,20,12th,4 points 7th,Iceland
+Estonia,NA,4,15,17,12,15,13th,3 points 8th,Iceland
+France,NA,11,11,6,13,7,1 point 10th,14th,Iceland
+Germany,NA,14,24,5,22,16,17th,22nd,Iceland
+Greece,NA,22,21,21,23,18,22nd,21st,Iceland
+Israel,NA,24,25,23,14,24,21st,25th,Iceland
+Italy,NA,12,8,20,16,1,3 points 8th,6 points 5th,Iceland
+Malta,NA,15,16,8,7,21,15th,12th,Iceland
+Netherlands,NA,7,3,4,17,4,7 points 4th,5 points 6th,Iceland
+North Macedonia,NA,3,9,11,1,8,8 points 3rd,16th,Iceland
+Norway,NA,17,5,14,8,13,11th,12 points 1st,Iceland
+Russia,NA,9,6,12,24,17,14th,18th,Iceland
+San Marino,NA,19,23,25,20,25,24th,1 point 10th,Iceland
+Serbia,NA,13,12,7,3,11,2 points 9th,20th,Iceland
+Slovenia,NA,16,19,15,15,5,16th,15th,Iceland
+Spain,NA,20,22,22,25,22,25th,11th,Iceland
+Sweden,NA,2,1,1,4,3,12 points 1st,8 points 3rd,Iceland
+Switzerland,NA,6,4,19,10,2,5 points 6th,7 points 4th,Iceland
+United Kingdom,NA,21,18,18,11,14,19th,24th,Iceland
+Albania,NA,11,24,21,25,24,22nd,25th,Ireland
+Australia,NA,8,4,4,17,6,4 points 7th,10 points 2nd,Ireland
+Azerbaijan,NA,5,5,7,5,2,7 points 4th,13th,Ireland
+Belarus,NA,14,22,16,24,19,23rd,21st,Ireland
+Cyprus,NA,18,17,13,9,20,18th,20th,Ireland
+Czechia,NA,23,12,20,14,10,19th,16th,Ireland
+Denmark,NA,10,9,25,18,15,14th,12th,Ireland
+Estonia,NA,19,13,22,7,17,13th,1 point 10th,Ireland
+France,NA,16,21,8,22,11,15th,14th,Ireland
+Germany,NA,3,23,11,19,16,2 points 9th,23rd,Ireland
+Greece,NA,26,15,24,11,23,21st,26th,Ireland
+Iceland,NA,17,10,15,12,21,17th,6 points 5th,Ireland
+Israel,NA,22,25,18,3,18,12th,18th,Ireland
+Italy,NA,7,14,9,20,8,1 point 10th,4 points 7th,Ireland
+Malta,NA,13,16,17,6,9,11th,15th,Ireland
+Netherlands,NA,2,3,2,10,4,8 points 3rd,8 points 3rd,Ireland
+North Macedonia,NA,9,6,5,8,3,5 points 6th,17th,Ireland
+Norway,NA,1,8,6,4,14,6 points 5th,12 points 1st,Ireland
+Russia,NA,15,7,10,16,7,3 points 8th,5 points 6th,Ireland
+San Marino,NA,24,18,26,23,22,25th,22nd,Ireland
+Serbia,NA,21,11,19,15,13,20th,24th,Ireland
+Slovenia,NA,25,20,23,26,25,26th,19th,Ireland
+Spain,NA,20,26,14,21,26,24th,11th,Ireland
+Sweden,NA,6,2,1,2,1,12 points 1st,2 points 9th,Ireland
+Switzerland,NA,4,1,3,1,5,10 points 2nd,7 points 4th,Ireland
+United Kingdom,NA,12,19,12,13,12,16th,3 points 8th,Ireland
+Albania,NA,24,20,21,23,23,24th,24th,Israel
+Australia,NA,11,24,6,4,4,5 points 6th,6 points 5th,Israel
+Azerbaijan,NA,1,6,16,3,16,7 points 4th,3 points 8th,Israel
+Belarus,NA,23,3,23,18,15,13th,18th,Israel
+Cyprus,NA,15,14,8,12,11,14th,12th,Israel
+Czechia,NA,6,9,11,7,12,1 point 10th,15th,Israel
+Denmark,NA,16,11,17,15,18,20th,1 point 10th,Israel
+Estonia,NA,8,1,4,21,2,8 points 3rd,11th,Israel
+France,NA,5,10,19,6,10,2 points 9th,4 points 7th,Israel
+Germany,NA,20,15,13,24,8,18th,22nd,Israel
+Greece,NA,13,18,9,11,14,16th,25th,Israel
+Iceland,NA,21,25,25,22,20,25th,17th,Israel
+Italy,NA,3,5,1,1,6,10 points 2nd,8 points 3rd,Israel
+Malta,NA,9,7,7,9,7,4 points 7th,16th,Israel
+Netherlands,NA,2,2,2,2,3,12 points 1st,2 points 9th,Israel
+North Macedonia,NA,10,21,10,17,9,15th,14th,Israel
+Norway,NA,22,8,12,14,17,17th,10 points 2nd,Israel
+Russia,NA,12,17,3,10,13,12th,12 points 1st,Israel
+San Marino,NA,25,16,22,25,19,23rd,20th,Israel
+Serbia,NA,19,22,14,20,24,22nd,21st,Israel
+Slovenia,NA,18,23,15,16,25,21st,19th,Israel
+Spain,NA,17,19,24,8,21,19th,5 points 6th,Israel
+Sweden,NA,4,12,18,13,1,6 points 5th,13th,Israel
+Switzerland,NA,7,13,5,5,22,3 points 8th,7 points 4th,Israel
+United Kingdom,NA,14,4,20,19,5,11th,23rd,Israel
+Albania,NA,16,10,6,13,7,1 point 10th,12 points 1st,Italy
+Australia,NA,4,9,3,10,2,6 points 5th,6 points 5th,Italy
+Azerbaijan,NA,8,7,4,1,5,7 points 4th,1 point 10th,Italy
+Belarus,NA,13,11,23,12,18,14th,19th,Italy
+Cyprus,NA,12,19,15,16,20,19th,20th,Italy
+Czechia,NA,5,6,17,6,8,4 points 7th,22nd,Italy
+Denmark,NA,1,3,1,3,1,12 points 1st,4 points 7th,Italy
+Estonia,NA,6,5,9,4,11,5 points 6th,14th,Italy
+France,NA,9,8,7,11,4,3 points 8th,2 points 9th,Italy
+Germany,NA,17,20,19,17,10,18th,25th,Italy
+Greece,NA,24,23,10,18,12,15th,23rd,Italy
+Iceland,NA,21,18,11,25,23,21st,7 points 4th,Italy
+Israel,NA,10,14,18,8,13,11th,15th,Italy
+Malta,NA,3,1,2,7,6,8 points 3rd,16th,Italy
+Netherlands,NA,11,13,12,15,9,12th,5 points 6th,Italy
+North Macedonia,NA,2,2,5,2,3,10 points 2nd,12th,Italy
+Norway,NA,14,15,24,9,15,13th,10 points 2nd,Italy
+Russia,NA,23,21,14,22,24,23rd,8 points 3rd,Italy
+San Marino,NA,25,25,22,24,25,25th,21st,Italy
+Serbia,NA,15,17,16,21,16,20th,13th,Italy
+Slovenia,NA,20,22,8,20,19,16th,18th,Italy
+Spain,NA,22,24,25,23,22,24th,11th,Italy
+Sweden,NA,7,4,13,5,17,2 points 9th,17th,Italy
+Switzerland,NA,18,12,21,14,14,17th,3 points 8th,Italy
+United Kingdom,NA,19,16,20,19,21,22nd,24th,Italy
+Albania,NA,11,22,23,25,16,20th,22nd,Latvia
+Australia,NA,17,14,15,9,15,16th,6 points 5th,Latvia
+Azerbaijan,NA,7,3,7,2,6,6 points 5th,4 points 7th,Latvia
+Belarus,NA,13,12,20,18,18,19th,13th,Latvia
+Cyprus,NA,21,8,22,16,11,15th,21st,Latvia
+Czechia,NA,6,16,16,4,17,3 points 8th,15th,Latvia
+Denmark,NA,3,11,2,6,3,7 points 4th,11th,Latvia
+Estonia,NA,4,4,9,8,7,5 points 6th,10 points 2nd,Latvia
+France,NA,8,15,19,21,12,14th,14th,Latvia
+Germany,NA,10,19,18,24,14,18th,24th,Latvia
+Greece,NA,26,26,26,26,25,26th,25th,Latvia
+Iceland,NA,24,17,10,10,26,17th,7 points 4th,Latvia
+Israel,NA,20,25,13,22,24,23rd,18th,Latvia
+Italy,NA,9,6,8,12,13,2 points 9th,3 points 8th,Latvia
+Malta,NA,16,9,4,17,10,1 point 10th,19th,Latvia
+Netherlands,NA,5,1,1,1,4,12 points 1st,5 points 6th,Latvia
+North Macedonia,NA,1,5,3,7,2,8 points 3rd,17th,Latvia
+Norway,NA,12,23,6,11,20,12th,8 points 3rd,Latvia
+Russia,NA,18,7,14,5,5,4 points 7th,12 points 1st,Latvia
+San Marino,NA,15,13,5,15,9,11th,16th,Latvia
+Serbia,NA,23,10,12,13,8,13th,23rd,Latvia
+Slovenia,NA,19,20,24,14,23,22nd,2 points 9th,Latvia
+Spain,NA,22,24,25,20,22,25th,20th,Latvia
+Sweden,NA,2,2,11,3,1,10 points 2nd,12th,Latvia
+Switzerland,NA,25,18,21,19,21,24th,1 point 10th,Latvia
+United Kingdom,NA,14,21,17,23,19,21st,26th,Latvia
+Albania,NA,22,12,23,24,16,21st,25th,Lithuania
+Australia,NA,6,6,16,10,13,2 points 9th,1 point 10th,Lithuania
+Azerbaijan,NA,3,2,2,3,3,10 points 2nd,5 points 6th,Lithuania
+Belarus,NA,23,21,24,23,21,26th,14th,Lithuania
+Cyprus,NA,21,26,13,22,23,22nd,18th,Lithuania
+Czechia,NA,1,11,4,8,6,7 points 4th,15th,Lithuania
+Denmark,NA,15,9,21,18,19,17th,13th,Lithuania
+Estonia,NA,10,14,17,16,7,13th,4 points 7th,Lithuania
+France,NA,24,25,12,15,12,18th,16th,Lithuania
+Germany,NA,5,10,8,6,8,5 points 6th,22nd,Lithuania
+Greece,NA,19,16,25,21,25,23rd,23rd,Lithuania
+Iceland,NA,7,7,5,9,5,6 points 5th,6 points 5th,Lithuania
+Israel,NA,26,24,22,25,17,25th,20th,Lithuania
+Italy,NA,13,8,6,7,10,3 points 8th,10 points 2nd,Lithuania
+Malta,NA,14,17,15,17,14,19th,19th,Lithuania
+Netherlands,NA,2,1,1,1,2,12 points 1st,7 points 4th,Lithuania
+North Macedonia,NA,20,19,11,11,9,15th,21st,Lithuania
+Norway,NA,17,3,20,20,20,11th,8 points 3rd,Lithuania
+Russia,NA,8,18,9,5,18,1 point 10th,12 points 1st,Lithuania
+San Marino,NA,11,13,26,26,26,20th,12th,Lithuania
+Serbia,NA,16,23,19,4,15,12th,24th,Lithuania
+Slovenia,NA,9,4,14,13,4,4 points 7th,11th,Lithuania
+Spain,NA,25,22,18,19,24,24th,17th,Lithuania
+Sweden,NA,4,5,3,2,1,8 points 3rd,3 points 8th,Lithuania
+Switzerland,NA,12,20,10,12,11,14th,2 points 9th,Lithuania
+United Kingdom,NA,18,15,7,14,22,16th,26th,Lithuania
+Albania,NA,9,11,7,11,10,2 points 9th,19th,Malta
+Australia,NA,10,10,10,12,11,11th,3 points 8th,Malta
+Azerbaijan,NA,2,5,6,2,1,8 points 3rd,2 points 9th,Malta
+Belarus,NA,14,14,9,13,12,12th,25th,Malta
+Cyprus,NA,6,3,4,7,5,6 points 5th,17th,Malta
+Czechia,NA,21,24,19,18,21,21st,18th,Malta
+Denmark,NA,16,15,14,17,16,15th,12th,Malta
+Estonia,NA,22,22,23,24,25,23rd,11th,Malta
+France,NA,12,12,13,14,13,13th,13th,Malta
+Germany,NA,20,21,20,19,20,20th,20th,Malta
+Greece,NA,5,4,8,6,8,4 points 7th,24th,Malta
+Iceland,NA,19,18,17,21,18,19th,1 point 10th,Malta
+Israel,NA,23,23,24,25,24,24th,22nd,Malta
+Italy,NA,1,2,1,1,3,12 points 1st,12 points 1st,Malta
+Netherlands,NA,3,7,3,4,6,7 points 4th,10 points 2nd,Malta
+North Macedonia,NA,8,8,11,8,4,3 points 8th,5 points 6th,Malta
+Norway,NA,17,13,18,16,15,16th,7 points 4th,Malta
+Russia,NA,4,1,2,3,2,10 points 2nd,4 points 7th,Malta
+San Marino,NA,11,9,12,10,9,1 point 10th,21st,Malta
+Serbia,NA,24,19,22,22,22,22nd,16th,Malta
+Slovenia,NA,25,25,25,23,23,25th,23rd,Malta
+Spain,NA,13,20,16,20,17,17th,15th,Malta
+Sweden,NA,7,6,5,5,7,5 points 6th,6 points 5th,Malta
+Switzerland,NA,15,16,15,9,14,14th,8 points 3rd,Malta
+United Kingdom,NA,18,17,21,15,19,18th,14th,Malta
+Albania,NA,19,14,22,26,20,23rd,25th,Moldova
+Australia,NA,3,9,2,5,2,10 points 2nd,11th,Moldova
+Azerbaijan,NA,11,1,16,6,5,6 points 5th,10 points 2nd,Moldova
+Belarus,NA,26,15,21,17,24,24th,12th,Moldova
+Cyprus,NA,22,13,11,15,9,14th,26th,Moldova
+Czechia,NA,7,3,4,8,3,8 points 3rd,2 points 9th,Moldova
+Denmark,NA,5,5,5,16,8,4 points 7th,17th,Moldova
+Estonia,NA,20,8,19,18,23,15th,19th,Moldova
+France,NA,14,16,7,9,12,13th,18th,Moldova
+Germany,NA,4,18,10,12,14,12th,24th,Moldova
+Greece,NA,15,24,18,21,18,22nd,13th,Moldova
+Iceland,NA,25,26,25,22,10,20th,1 point 10th,Moldova
+Israel,NA,18,12,13,23,19,17th,7 points 4th,Moldova
+Italy,NA,16,21,17,14,16,18th,5 points 6th,Moldova
+Malta,NA,8,10,9,10,7,1 point 10th,15th,Moldova
+Netherlands,NA,6,7,12,7,6,3 points 8th,6 points 5th,Moldova
+North Macedonia,NA,1,2,1,1,1,12 points 1st,16th,Moldova
+Norway,NA,2,4,6,20,4,7 points 4th,3 points 8th,Moldova
+Russia,NA,12,11,3,2,11,5 points 6th,12 points 1st,Moldova
+San Marino,NA,21,22,23,25,17,25th,8 points 3rd,Moldova
+Serbia,NA,17,19,14,13,13,16th,23rd,Moldova
+Slovenia,NA,23,25,24,24,22,26th,20th,Moldova
+Spain,NA,24,20,26,11,26,21st,21st,Moldova
+Sweden,NA,9,6,15,3,25,2 points 9th,14th,Moldova
+Switzerland,NA,10,17,8,4,21,11th,4 points 7th,Moldova
+United Kingdom,NA,13,23,20,19,15,19th,22nd,Moldova
+Albania,NA,16,3,2,3,2,8 points 3rd,7 points 4th,Montenegro
+Australia,NA,3,8,18,13,10,4 points 7th,15th,Montenegro
+Azerbaijan,NA,14,11,7,10,16,11th,3 points 8th,Montenegro
+Belarus,NA,13,16,14,20,24,22nd,16th,Montenegro
+Cyprus,NA,24,4,6,18,4,5 points 6th,14th,Montenegro
+Czechia,NA,10,15,8,16,8,1 point 10th,18th,Montenegro
+Denmark,NA,4,17,20,9,13,3 points 8th,17th,Montenegro
+Estonia,NA,23,23,9,11,15,18th,21st,Montenegro
+France,NA,18,21,22,23,19,26th,22nd,Montenegro
+Germany,NA,11,25,24,25,23,23rd,26th,Montenegro
+Greece,NA,25,7,25,26,25,20th,23rd,Montenegro
+Iceland,NA,6,24,10,19,14,13th,2 points 9th,Montenegro
+Israel,NA,17,19,23,24,21,25th,25th,Montenegro
+Italy,NA,7,9,15,8,17,2 points 9th,5 points 6th,Montenegro
+Malta,NA,12,6,4,4,5,6 points 5th,19th,Montenegro
+Netherlands,NA,20,13,12,7,9,12th,1 point 10th,Montenegro
+North Macedonia,NA,2,5,5,5,6,7 points 4th,6 points 5th,Montenegro
+Norway,NA,5,22,17,22,12,14th,13th,Montenegro
+Russia,NA,15,1,1,1,3,10 points 2nd,10 points 2nd,Montenegro
+San Marino,NA,26,26,26,6,26,19th,8 points 3rd,Montenegro
+Serbia,NA,1,2,3,2,1,12 points 1st,12 points 1st,Montenegro
+Slovenia,NA,19,10,19,14,7,15th,4 points 7th,Montenegro
+Spain,NA,22,20,16,17,11,21st,12th,Montenegro
+Sweden,NA,8,12,13,15,22,17th,20th,Montenegro
+Switzerland,NA,9,14,11,12,18,16th,11th,Montenegro
+United Kingdom,NA,21,18,21,21,20,24th,24th,Montenegro
+Albania,NA,19,18,22,22,25,23rd,20th,Netherlands
+Australia,NA,9,6,13,5,15,2 points 9th,2 points 9th,Netherlands
+Azerbaijan,NA,14,8,17,11,13,14th,4 points 7th,Netherlands
+Belarus,NA,18,11,10,12,16,15th,24th,Netherlands
+Cyprus,NA,7,7,20,17,5,1 point 10th,22nd,Netherlands
+Czechia,NA,5,16,9,6,6,4 points 7th,13th,Netherlands
+Denmark,NA,8,5,1,4,10,7 points 4th,5 points 6th,Netherlands
+Estonia,NA,23,14,18,19,17,19th,14th,Netherlands
+France,NA,15,12,16,13,7,13th,16th,Netherlands
+Germany,NA,13,17,6,21,8,12th,21st,Netherlands
+Greece,NA,25,25,14,23,23,22nd,25th,Netherlands
+Iceland,NA,17,19,23,15,21,20th,7 points 4th,Netherlands
+Israel,NA,21,23,15,20,22,21st,18th,Netherlands
+Italy,NA,10,9,3,9,2,6 points 5th,10 points 2nd,Netherlands
+Malta,NA,4,2,19,3,4,8 points 3rd,17th,Netherlands
+North Macedonia,NA,6,10,8,8,9,3 points 8th,1 point 10th,Netherlands
+Norway,NA,12,13,21,16,19,18th,12 points 1st,Netherlands
+Russia,NA,3,4,11,7,11,5 points 6th,11th,Netherlands
+San Marino,NA,24,24,25,25,24,25th,12th,Netherlands
+Serbia,NA,11,20,5,10,14,11th,19th,Netherlands
+Slovenia,NA,20,22,24,24,18,24th,15th,Netherlands
+Spain,NA,22,21,7,18,20,17th,3 points 8th,Netherlands
+Sweden,NA,1,3,2,2,1,12 points 1st,8 points 3rd,Netherlands
+Switzerland,NA,2,1,4,1,3,10 points 2nd,6 points 5th,Netherlands
+United Kingdom,NA,16,15,12,14,12,16th,23rd,Netherlands
+Albania,NA,5,1,6,3,4,8 points 3rd,12 points 1st,North Macedonia
+Australia,NA,4,3,4,2,2,10 points 2nd,13th,North Macedonia
+Azerbaijan,NA,7,5,12,8,7,4 points 7th,1 point 10th,North Macedonia
+Belarus,NA,20,21,8,20,23,17th,21st,North Macedonia
+Cyprus,NA,15,10,7,11,19,1 point 10th,17th,North Macedonia
+Czechia,NA,14,11,9,19,10,13th,18th,North Macedonia
+Denmark,NA,18,15,22,22,17,23rd,16th,North Macedonia
+Estonia,NA,19,12,13,17,13,16th,19th,North Macedonia
+France,NA,21,24,24,9,25,19th,23rd,North Macedonia
+Germany,NA,17,18,16,24,11,18th,22nd,North Macedonia
+Greece,NA,10,16,10,10,14,11th,20th,North Macedonia
+Iceland,NA,25,25,25,16,1,2 points 9th,15th,North Macedonia
+Israel,NA,12,20,15,23,21,20th,24th,North Macedonia
+Italy,NA,2,2,1,1,3,12 points 1st,3 points 8th,North Macedonia
+Malta,NA,6,6,5,5,5,5 points 6th,6 points 5th,North Macedonia
+Netherlands,NA,1,8,2,4,8,7 points 4th,7 points 4th,North Macedonia
+Norway,NA,9,14,23,18,16,15th,5 points 6th,North Macedonia
+Russia,NA,3,4,3,7,6,6 points 5th,11th,North Macedonia
+San Marino,NA,22,19,21,25,22,25th,8 points 3rd,North Macedonia
+Serbia,NA,13,22,20,12,9,14th,10 points 2nd,North Macedonia
+Slovenia,NA,24,17,17,14,18,22nd,2 points 9th,North Macedonia
+Spain,NA,23,23,19,15,20,24th,12th,North Macedonia
+Sweden,NA,11,9,14,13,12,12th,14th,North Macedonia
+Switzerland,NA,8,7,11,6,15,3 points 8th,4 points 7th,North Macedonia
+United Kingdom,NA,16,13,18,21,24,21st,25th,North Macedonia
+Albania,NA,23,16,23,19,23,22nd,18th,Norway
+Australia,NA,9,15,9,10,9,12th,4 points 7th,Norway
+Azerbaijan,NA,2,5,6,7,14,5 points 6th,3 points 8th,Norway
+Belarus,NA,22,18,18,16,15,19th,23rd,Norway
+Cyprus,NA,6,12,14,20,5,1 point 10th,19th,Norway
+Czechia,NA,1,1,2,3,3,12 points 1st,13th,Norway
+Denmark,NA,10,11,4,9,4,4 points 7th,5 points 6th,Norway
+Estonia,NA,21,8,20,11,11,14th,2 points 9th,Norway
+France,NA,14,20,15,23,18,18th,14th,Norway
+Germany,NA,20,10,21,15,17,17th,24th,Norway
+Greece,NA,25,25,25,22,24,25th,25th,Norway
+Iceland,NA,15,9,11,25,22,15th,10 points 2nd,Norway
+Israel,NA,18,23,17,17,20,21st,21st,Norway
+Italy,NA,8,21,16,1,13,3 points 8th,7 points 4th,Norway
+Malta,NA,13,7,13,13,7,11th,12th,Norway
+Netherlands,NA,4,2,10,4,12,7 points 4th,8 points 3rd,Norway
+North Macedonia,NA,12,3,1,2,2,10 points 2nd,17th,Norway
+Russia,NA,7,14,8,12,16,13th,1 point 10th,Norway
+San Marino,NA,24,17,24,24,25,24th,15th,Norway
+Serbia,NA,17,22,12,18,10,16th,20th,Norway
+Slovenia,NA,16,19,22,14,21,20th,16th,Norway
+Spain,NA,19,24,19,21,19,23rd,11th,Norway
+Sweden,NA,3,4,5,5,1,8 points 3rd,12 points 1st,Norway
+Switzerland,NA,5,6,3,8,6,6 points 5th,6 points 5th,Norway
+United Kingdom,NA,11,13,7,6,8,2 points 9th,22nd,Norway
+Albania,NA,15,14,18,18,16,20th,23rd,Poland
+Australia,NA,1,1,5,1,8,12 points 1st,6 points 5th,Poland
+Azerbaijan,NA,5,8,10,19,10,2 points 9th,2 points 9th,Poland
+Belarus,NA,18,18,20,24,20,22nd,17th,Poland
+Cyprus,NA,20,17,12,25,14,19th,20th,Poland
+Czechia,NA,11,15,6,10,9,11th,1 point 10th,Poland
+Denmark,NA,17,7,7,5,7,5 points 6th,16th,Poland
+Estonia,NA,13,11,21,14,21,17th,13th,Poland
+France,NA,2,2,11,8,6,6 points 5th,11th,Poland
+Germany,NA,21,20,19,16,25,21st,24th,Poland
+Greece,NA,23,19,25,26,17,24th,25th,Poland
+Iceland,NA,6,4,17,12,22,3 points 8th,12 points 1st,Poland
+Israel,NA,16,26,24,21,18,23rd,21st,Poland
+Italy,NA,24,25,9,23,3,13th,7 points 4th,Poland
+Malta,NA,12,21,4,20,4,4 points 7th,22nd,Poland
+Netherlands,NA,10,12,14,7,13,14th,10 points 2nd,Poland
+North Macedonia,NA,9,9,1,3,2,8 points 3rd,15th,Poland
+Norway,NA,7,5,15,9,23,1 point 10th,8 points 3rd,Poland
+Russia,NA,8,13,26,11,24,16th,3 points 8th,Poland
+San Marino,NA,25,24,22,17,26,26th,19th,Poland
+Serbia,NA,4,6,3,2,5,7 points 4th,18th,Poland
+Slovenia,NA,3,3,2,6,1,10 points 2nd,4 points 7th,Poland
+Spain,NA,22,22,23,22,19,25th,14th,Poland
+Sweden,NA,14,10,13,15,11,15th,12th,Poland
+Switzerland,NA,19,16,8,4,15,12th,5 points 6th,Poland
+United Kingdom,NA,26,23,16,13,12,18th,26th,Poland
+Albania,NA,22,16,16,23,10,24th,23rd,Portugal
+Australia,NA,4,4,13,6,11,7 points 4th,4 points 7th,Portugal
+Azerbaijan,NA,7,2,3,11,9,8 points 3rd,13th,Portugal
+Belarus,NA,8,24,10,17,20,19th,21st,Portugal
+Cyprus,NA,12,25,22,8,14,20th,20th,Portugal
+Czechia,NA,5,10,1,14,5,10 points 2nd,18th,Portugal
+Denmark,NA,18,6,8,22,6,12th,1 point 10th,Portugal
+Estonia,NA,11,11,25,21,15,21st,12th,Portugal
+France,NA,14,13,6,4,18,11th,2 points 9th,Portugal
+Germany,NA,6,23,11,10,16,15th,24th,Portugal
+Greece,NA,24,22,18,16,21,25th,25th,Portugal
+Iceland,NA,26,7,14,26,4,13th,3 points 8th,Portugal
+Israel,NA,19,15,19,5,24,18th,14th,Portugal
+Italy,NA,13,12,5,9,2,6 points 5th,7 points 4th,Portugal
+Malta,NA,23,17,9,19,17,22nd,17th,Portugal
+Netherlands,NA,2,1,2,1,22,12 points 1st,8 points 3rd,Portugal
+North Macedonia,NA,1,8,12,7,23,5 points 6th,15th,Portugal
+Norway,NA,3,21,24,12,3,4 points 7th,6 points 5th,Portugal
+Russia,NA,9,14,17,13,7,16th,10 points 2nd,Portugal
+San Marino,NA,25,26,26,25,25,26th,22nd,Portugal
+Serbia,NA,10,5,20,20,26,17th,19th,Portugal
+Slovenia,NA,20,3,4,18,12,3 points 8th,16th,Portugal
+Spain,NA,21,20,23,24,8,23rd,12 points 1st,Portugal
+Sweden,NA,15,9,7,3,13,2 points 9th,11th,Portugal
+Switzerland,NA,16,19,15,15,1,1 point 10th,5 points 6th,Portugal
+United Kingdom,NA,17,18,21,2,19,14th,26th,Portugal
+Albania,NA,4,8,8,16,10,2 points 9th,21st,Romania
+Australia,NA,1,2,3,2,3,12 points 1st,2 points 9th,Romania
+Azerbaijan,NA,3,1,6,3,1,10 points 2nd,6 points 5th,Romania
+Belarus,NA,18,19,15,22,15,22nd,24th,Romania
+Cyprus,NA,10,9,17,19,8,13th,18th,Romania
+Czechia,NA,2,7,7,7,2,8 points 3rd,20th,Romania
+Denmark,NA,14,17,12,21,17,17th,13th,Romania
+Estonia,NA,15,20,14,14,18,19th,16th,Romania
+France,NA,26,22,24,13,7,15th,1 point 10th,Romania
+Germany,NA,22,18,11,20,20,20th,23rd,Romania
+Greece,NA,24,11,19,17,24,21st,15th,Romania
+Iceland,NA,25,24,26,25,14,24th,5 points 6th,Romania
+Israel,NA,7,13,9,12,26,12th,3 points 8th,Romania
+Italy,NA,19,12,22,15,11,16th,8 points 3rd,Romania
+Malta,NA,12,10,10,11,9,11th,22nd,Romania
+Netherlands,NA,11,3,18,5,4,5 points 6th,12 points 1st,Romania
+North Macedonia,NA,6,21,1,1,16,7 points 4th,17th,Romania
+Norway,NA,17,16,20,4,19,14th,4 points 7th,Romania
+Russia,NA,13,4,2,9,5,6 points 5th,7 points 4th,Romania
+San Marino,NA,23,25,25,26,25,26th,26th,Romania
+Serbia,NA,5,15,4,8,13,3 points 8th,11th,Romania
+Slovenia,NA,9,26,16,23,22,18th,19th,Romania
+Spain,NA,21,14,23,24,23,23rd,12th,Romania
+Sweden,NA,16,6,13,6,6,1 point 10th,14th,Romania
+Switzerland,NA,8,5,5,10,12,4 points 7th,10 points 2nd,Romania
+United Kingdom,NA,20,23,21,18,21,25th,25th,Romania
+Albania,NA,14,10,2,6,11,3 points 8th,22nd,Russia
+Australia,NA,21,24,5,13,25,15th,4 points 7th,Russia
+Azerbaijan,NA,4,4,1,4,3,12 points 1st,12 points 1st,Russia
+Belarus,NA,5,7,3,5,5,7 points 4th,8 points 3rd,Russia
+Cyprus,NA,7,1,4,7,4,8 points 3rd,20th,Russia
+Czechia,NA,13,22,21,14,23,21st,18th,Russia
+Denmark,NA,17,13,25,18,9,17th,14th,Russia
+Estonia,NA,23,20,16,16,15,22nd,15th,Russia
+France,NA,2,21,15,20,14,13th,12th,Russia
+Germany,NA,22,17,22,25,24,24th,23rd,Russia
+Greece,NA,11,2,10,2,2,10 points 2nd,24th,Russia
+Iceland,NA,1,18,8,10,20,2 points 9th,7 points 4th,Russia
+Israel,NA,25,25,20,24,21,25th,21st,Russia
+Italy,NA,24,19,14,15,1,11th,1 point 10th,Russia
+Malta,NA,8,6,13,1,10,6 points 5th,19th,Russia
+Netherlands,NA,18,3,18,17,19,14th,5 points 6th,Russia
+North Macedonia,NA,6,5,6,12,8,4 points 7th,11th,Russia
+Norway,NA,20,14,23,19,12,19th,10 points 2nd,Russia
+San Marino,NA,10,8,9,3,6,5 points 6th,13th,Russia
+Serbia,NA,12,11,7,8,7,12th,3 points 8th,Russia
+Slovenia,NA,15,15,17,21,16,20th,6 points 5th,Russia
+Spain,NA,3,9,12,9,13,1 point 10th,16th,Russia
+Sweden,NA,16,12,11,22,22,18th,17th,Russia
+Switzerland,NA,9,23,24,11,18,16th,2 points 9th,Russia
+United Kingdom,NA,19,16,19,23,17,23rd,25th,Russia
+Albania,NA,8,6,3,4,6,7 points 4th,16th,San Marino
+Australia,NA,18,13,7,13,15,15th,11th,San Marino
+Azerbaijan,NA,5,8,6,20,10,4 points 7th,4 points 7th,San Marino
+Belarus,NA,21,18,13,5,20,14th,23rd,San Marino
+Cyprus,NA,9,7,5,8,13,5 points 6th,7 points 4th,San Marino
+Czechia,NA,12,21,19,9,11,16th,20th,San Marino
+Denmark,NA,23,25,20,25,17,25th,19th,San Marino
+Estonia,NA,25,23,23,21,8,18th,17th,San Marino
+France,NA,24,17,25,19,23,24th,14th,San Marino
+Germany,NA,22,24,21,16,25,23rd,25th,San Marino
+Greece,NA,1,2,4,3,5,8 points 3rd,10 points 2nd,San Marino
+Iceland,NA,7,12,15,7,4,6 points 5th,2 points 9th,San Marino
+Israel,NA,19,15,17,11,21,20th,1 point 10th,San Marino
+Italy,NA,4,3,1,1,1,12 points 1st,8 points 3rd,San Marino
+Malta,NA,14,22,18,15,16,22nd,22nd,San Marino
+Netherlands,NA,2,10,10,22,19,3 points 8th,6 points 5th,San Marino
+North Macedonia,NA,11,4,8,24,14,1 point 10th,15th,San Marino
+Norway,NA,20,19,22,10,22,21st,3 points 8th,San Marino
+Russia,NA,3,1,2,2,2,10 points 2nd,12 points 1st,San Marino
+Serbia,NA,16,14,11,18,24,17th,18th,San Marino
+Slovenia,NA,10,20,16,23,3,12th,21st,San Marino
+Spain,NA,6,11,12,12,9,11th,13th,San Marino
+Sweden,NA,15,9,14,6,18,13th,12th,San Marino
+Switzerland,NA,13,5,9,17,7,2 points 9th,5 points 6th,San Marino
+United Kingdom,NA,17,16,24,14,12,19th,24th,San Marino
+Albania,NA,20,15,25,25,25,25th,15th,Serbia
+Australia,NA,15,5,3,3,5,7 points 4th,11th,Serbia
+Azerbaijan,NA,1,11,19,4,23,3 points 8th,14th,Serbia
+Belarus,NA,18,16,23,19,22,23rd,13th,Serbia
+Cyprus,NA,11,13,9,12,9,13th,18th,Serbia
+Czechia,NA,9,8,6,10,2,4 points 7th,12th,Serbia
+Denmark,NA,13,18,10,14,1,2 points 9th,16th,Serbia
+Estonia,NA,6,14,12,2,4,6 points 5th,21st,Serbia
+France,NA,8,10,7,11,24,1 point 10th,20th,Serbia
+Germany,NA,10,9,17,22,20,17th,24th,Serbia
+Greece,NA,24,22,18,21,13,22nd,23rd,Serbia
+Iceland,NA,17,25,21,18,21,24th,5 points 6th,Serbia
+Israel,NA,25,20,14,17,16,20th,22nd,Serbia
+Italy,NA,5,2,1,6,6,10 points 2nd,7 points 4th,Serbia
+Malta,NA,14,12,5,20,12,12th,19th,Serbia
+Netherlands,NA,7,7,13,13,17,11th,3 points 8th,Serbia
+North Macedonia,NA,2,1,2,7,3,12 points 1st,12 points 1st,Serbia
+Norway,NA,22,19,15,5,14,15th,4 points 7th,Serbia
+Russia,NA,16,6,16,9,19,14th,8 points 3rd,Serbia
+San Marino,NA,21,24,24,24,8,18th,1 point 10th,Serbia
+Slovenia,NA,12,23,11,15,10,16th,10 points 2nd,Serbia
+Spain,NA,23,21,20,23,11,19th,2 points 9th,Serbia
+Sweden,NA,3,3,4,1,18,8 points 3rd,17th,Serbia
+Switzerland,NA,4,4,8,8,7,5 points 6th,6 points 5th,Serbia
+United Kingdom,NA,19,17,22,16,15,21st,25th,Serbia
+Albania,NA,18,16,17,17,9,17th,12th,Slovenia
+Australia,NA,24,22,13,5,23,15th,2 points 9th,Slovenia
+Azerbaijan,NA,3,4,19,3,2,10 points 2nd,16th,Slovenia
+Belarus,NA,8,13,10,6,10,12th,18th,Slovenia
+Cyprus,NA,13,12,14,11,12,16th,20th,Slovenia
+Czechia,NA,1,1,11,2,13,12 points 1st,15th,Slovenia
+Denmark,NA,5,5,9,8,6,4 points 7th,3 points 8th,Slovenia
+Estonia,NA,16,20,12,19,20,20th,1 point 10th,Slovenia
+France,NA,15,23,2,16,3,3 points 8th,17th,Slovenia
+Germany,NA,21,17,22,24,24,23rd,21st,Slovenia
+Greece,NA,14,11,24,15,15,18th,25th,Slovenia
+Iceland,NA,2,10,18,18,7,11th,7 points 4th,Slovenia
+Israel,NA,19,24,23,22,19,24th,23rd,Slovenia
+Italy,NA,11,2,8,1,16,8 points 3rd,8 points 3rd,Slovenia
+Malta,NA,12,7,6,4,18,1 point 10th,19th,Slovenia
+Netherlands,NA,10,9,3,10,1,6 points 5th,5 points 6th,Slovenia
+North Macedonia,NA,9,8,5,9,5,2 points 9th,12 points 1st,Slovenia
+Norway,NA,23,25,16,23,17,22nd,6 points 5th,Slovenia
+Russia,NA,20,18,20,13,14,19th,11th,Slovenia
+San Marino,NA,25,19,25,25,22,25th,22nd,Slovenia
+Serbia,NA,17,14,7,7,8,13th,10 points 2nd,Slovenia
+Spain,NA,22,21,15,20,25,21st,14th,Slovenia
+Sweden,NA,6,3,4,14,4,7 points 4th,13th,Slovenia
+Switzerland,NA,4,15,1,12,11,5 points 6th,4 points 7th,Slovenia
+United Kingdom,NA,7,6,21,21,21,14th,24th,Slovenia
+Albania,NA,20,19,19,19,25,24th,25th,Spain
+Australia,NA,1,7,5,6,1,10 points 2nd,5 points 6th,Spain
+Azerbaijan,NA,9,1,4,3,10,7 points 4th,1 point 10th,Spain
+Belarus,NA,22,9,11,8,21,15th,17th,Spain
+Cyprus,NA,23,10,1,13,5,5 points 6th,15th,Spain
+Czechia,NA,5,21,10,2,4,6 points 5th,13th,Spain
+Denmark,NA,10,23,20,12,14,18th,11th,Spain
+Estonia,NA,18,8,24,18,11,16th,12th,Spain
+France,NA,17,6,12,14,13,13th,4 points 7th,Spain
+Germany,NA,7,22,22,17,19,17th,20th,Spain
+Greece,NA,19,13,13,11,20,19th,24th,Spain
+Iceland,NA,24,20,16,15,22,23rd,3 points 8th,Spain
+Israel,NA,21,15,14,22,15,21st,16th,Spain
+Italy,NA,6,5,18,5,7,4 points 7th,12 points 1st,Spain
+Malta,NA,12,17,7,9,23,14th,14th,Spain
+Netherlands,NA,8,2,9,1,3,8 points 3rd,8 points 3rd,Spain
+North Macedonia,NA,4,18,15,21,12,12th,19th,Spain
+Norway,NA,13,11,8,23,6,11th,7 points 4th,Spain
+Russia,NA,15,4,6,16,9,2 points 9th,2 points 9th,Spain
+San Marino,NA,25,25,25,25,24,25th,21st,Spain
+Serbia,NA,11,14,17,20,18,20th,23rd,Spain
+Slovenia,NA,3,24,23,10,17,1 point 10th,22nd,Spain
+Sweden,NA,2,3,3,4,2,12 points 1st,6 points 5th,Spain
+Switzerland,NA,16,12,2,7,8,3 points 8th,10 points 2nd,Spain
+United Kingdom,NA,14,16,21,24,16,22nd,18th,Spain
+Albania,NA,24,20,25,24,24,25th,13th,Sweden
+Australia,NA,7,5,7,20,6,6 points 5th,5 points 6th,Sweden
+Azerbaijan,NA,9,9,5,8,7,5 points 6th,3 points 8th,Sweden
+Belarus,NA,18,21,19,15,10,19th,25th,Sweden
+Cyprus,NA,4,10,10,1,15,7 points 4th,20th,Sweden
+Czechia,NA,3,15,18,7,19,1 point 10th,18th,Sweden
+Denmark,NA,12,7,16,11,12,16th,7 points 4th,Sweden
+Estonia,NA,13,16,13,9,4,12th,10 points 2nd,Sweden
+France,NA,14,6,14,14,16,17th,11th,Sweden
+Germany,NA,15,18,23,17,22,22nd,24th,Sweden
+Greece,NA,23,22,20,18,14,23rd,21st,Sweden
+Iceland,NA,25,24,12,25,23,24th,8 points 3rd,Sweden
+Israel,NA,22,17,21,21,13,21st,23rd,Sweden
+Italy,NA,8,2,6,2,9,8 points 3rd,4 points 7th,Sweden
+Malta,NA,5,19,9,5,20,2 points 9th,19th,Sweden
+Netherlands,NA,2,1,1,3,2,12 points 1st,6 points 5th,Sweden
+North Macedonia,NA,20,13,3,19,8,11th,2 points 9th,Sweden
+Norway,NA,21,4,11,10,5,4 points 7th,12 points 1st,Sweden
+Russia,NA,10,14,8,12,3,3 points 8th,12th,Sweden
+San Marino,NA,11,23,24,22,21,20th,22nd,Sweden
+Serbia,NA,16,25,15,16,11,18th,15th,Sweden
+Slovenia,NA,19,12,4,13,25,15th,14th,Sweden
+Spain,NA,17,3,17,23,17,14th,17th,Sweden
+Switzerland,NA,1,8,2,4,1,10 points 2nd,1 point 10th,Sweden
+United Kingdom,NA,6,11,22,6,18,13th,16th,Sweden
+Albania,NA,17,20,19,21,7,17th,10 points 2nd,Switzerland
+Australia,NA,9,22,12,6,4,4 points 7th,13th,Switzerland
+Azerbaijan,NA,16,4,13,16,12,12th,12th,Switzerland
+Belarus,NA,10,7,15,13,21,14th,24th,Switzerland
+Cyprus,NA,15,10,16,20,23,19th,21st,Switzerland
+Czechia,NA,12,9,8,9,14,11th,19th,Switzerland
+Denmark,NA,18,13,22,7,8,13th,1 point 10th,Switzerland
+Estonia,NA,20,15,11,17,17,20th,15th,Switzerland
+France,NA,6,17,9,12,6,2 points 9th,3 points 8th,Switzerland
+Germany,NA,4,5,7,18,9,6 points 5th,11th,Switzerland
+Greece,NA,25,24,24,25,25,25th,23rd,Switzerland
+Iceland,NA,21,8,18,14,11,16th,17th,Switzerland
+Israel,NA,19,19,14,24,22,21st,18th,Switzerland
+Italy,NA,8,18,17,11,2,5 points 6th,12 points 1st,Switzerland
+Malta,NA,11,11,20,8,15,15th,20th,Switzerland
+Netherlands,NA,3,1,2,4,3,10 points 2nd,6 points 5th,Switzerland
+North Macedonia,NA,1,2,3,2,1,12 points 1st,2 points 9th,Switzerland
+Norway,NA,5,6,4,3,5,7 points 4th,8 points 3rd,Switzerland
+Russia,NA,14,12,5,5,13,3 points 8th,14th,Switzerland
+San Marino,NA,24,25,25,22,24,24th,25th,Switzerland
+Serbia,NA,13,16,10,15,20,18th,7 points 4th,Switzerland
+Slovenia,NA,23,21,21,19,18,22nd,16th,Switzerland
+Spain,NA,22,23,23,23,19,23rd,5 points 6th,Switzerland
+Sweden,NA,2,3,1,1,10,8 points 3rd,4 points 7th,Switzerland
+United Kingdom,NA,7,14,6,10,16,1 point 10th,22nd,Switzerland
+Australia,NA,4,11,12,17,2,2 points 9th,1 point 10th,Ukraine
+Azerbaijan,NA,9,4,2,1,8,8 points 3rd,3 points 8th,Ukraine
+Belarus,NA,16,20,16,22,23,21st,25th,Ukraine
+Cyprus,NA,22,3,3,3,10,7 points 4th,15th,Ukraine
+Czechia,NA,10,18,24,8,17,16th,24th,Ukraine
+Denmark,NA,6,19,19,11,18,14th,21st,Ukraine
+Estonia,NA,20,21,18,16,22,22nd,16th,Ukraine
+France,NA,3,10,10,7,6,3 points 8th,19th,Ukraine
+Germany,NA,7,17,15,9,9,12th,17th,Ukraine
+Greece,NA,14,1,4,21,14,4 points 7th,2 points 9th,Ukraine
+Iceland,NA,23,23,17,25,24,23rd,22nd,Ukraine
+Israel,NA,21,9,9,19,11,13th,12th,Ukraine
+Italy,NA,5,6,5,5,7,5 points 6th,8 points 3rd,Ukraine
+Malta,NA,18,12,11,15,16,17th,11th,Ukraine
+Netherlands,NA,15,8,8,10,4,11th,7 points 4th,Ukraine
+North Macedonia,NA,2,5,6,4,1,12 points 1st,6 points 5th,Ukraine
+Norway,NA,13,15,21,20,20,19th,5 points 6th,Ukraine
+Russia,NA,12,7,7,12,5,1 point 10th,12 points 1st,Ukraine
+San Marino,NA,25,25,25,24,25,25th,10 points 2nd,Ukraine
+Serbia,NA,17,24,23,18,15,20th,23rd,Ukraine
+Slovenia,NA,8,13,20,14,13,15th,18th,Ukraine
+Spain,NA,24,22,22,23,21,24th,14th,Ukraine
+Sweden,NA,1,14,13,2,12,6 points 5th,13th,Ukraine
+Switzerland,NA,19,2,1,6,3,10 points 2nd,4 points 7th,Ukraine
+United Kingdom,NA,11,16,14,13,19,18th,20th,Ukraine
+Albania,NA,16,9,12,20,8,13th,20th,United Kingdom
+Australia,NA,4,4,1,1,10,8 points 3rd,10 points 2nd,United Kingdom
+Azerbaijan,NA,3,8,8,5,4,7 points 4th,3 points 8th,United Kingdom
+Belarus,NA,12,20,18,13,15,18th,22nd,United Kingdom
+Cyprus,NA,11,17,23,17,19,19th,1 point 10th,United Kingdom
+Czechia,NA,23,12,10,3,12,1 point 10th,16th,United Kingdom
+Denmark,NA,17,6,5,4,21,3 points 8th,6 points 5th,United Kingdom
+Estonia,NA,9,11,21,16,7,12th,12th,United Kingdom
+France,NA,7,3,20,10,9,2 points 9th,14th,United Kingdom
+Germany,NA,21,16,19,19,18,23rd,24th,United Kingdom
+Greece,NA,19,22,25,22,22,24th,19th,United Kingdom
+Iceland,NA,14,21,24,23,16,22nd,8 points 3rd,United Kingdom
+Israel,NA,18,19,17,18,17,21st,17th,United Kingdom
+Italy,NA,25,18,11,9,20,15th,11th,United Kingdom
+Malta,NA,10,15,14,14,13,14th,15th,United Kingdom
+Netherlands,NA,5,7,13,11,3,6 points 5th,4 points 7th,United Kingdom
+North Macedonia,NA,2,1,2,2,2,12 points 1st,18th,United Kingdom
+Norway,NA,15,10,4,12,11,11th,12 points 1st,United Kingdom
+Russia,NA,8,5,15,6,6,4 points 7th,13th,United Kingdom
+San Marino,NA,20,25,22,25,24,25th,21st,United Kingdom
+Serbia,NA,13,13,16,15,14,16th,25th,United Kingdom
+Slovenia,NA,24,23,9,24,25,20th,23rd,United Kingdom
+Spain,NA,22,24,7,21,23,17th,2 points 9th,United Kingdom
+Sweden,NA,1,2,3,8,1,10 points 2nd,5 points 6th,United Kingdom
+Switzerland,NA,6,14,6,7,5,5 points 6th,7 points 4th,United Kingdom
