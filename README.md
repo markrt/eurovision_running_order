@@ -33,7 +33,7 @@ Finally, **running_order_position.R** produces the analysis published online.
 ## Nerd stuff (csvs)
 
 Naming convention as follows:
-- anything starting **ESC** is downloaded direct from the ESC pages
+- anything starting **ESC** is downloaded direct from the ESC pages. Please note the stuff from 2017 is in a different shape and isn't as useful for what I'm doing, so I haven't used it here.
 - anything starting **ro_** is a running order: the other parts of the file name are the year and the event (so ro_2014_semi_1.csv is the running order for the first semi-final in 2014)
 - anything starting y_ is a set of rankings for both juries and televotes: the other parts of the file name are the year and the event (so y_2017_semi_1.csv is the rankings for the first semi-final in 2017)
 - anything including WITH_ includes data that I've pulled from Wikipedia where relevant data wasn't available from ESC. This needs some health warnings - the differences between these files and the ones without WITH_ are cases where the rankings were in some way suspicious. 
