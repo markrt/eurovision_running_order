@@ -369,7 +369,7 @@ rankings_wide %>%
   arrange(mean_discrepancy)
 # Belgium 2017: again looks plausible
 
-# best position?
+# best position?  square
 rankings_wide %>% 
   mutate(jury_discrepancy = 
            jury_ranking_final - 
@@ -436,6 +436,146 @@ rankings_wide %>%
   theme(panel.grid.major = element_blank(),
         panel.grid.minor = element_blank())
 
+# change axes, export to 16:9
+
+# best position?  square
+rankings_wide %>% 
+  mutate(jury_discrepancy = 
+           jury_ranking_final - 
+           jury_ranking_semi) %>% 
+  mutate(televote_discrepancy = 
+           televote_ranking_final - 
+           televote_ranking_semi) %>% 
+  select(from_country,
+         to_country,
+         year,
+         jury_discrepancy,
+         televote_discrepancy,
+         running_order_final)  %>% 
+  na.omit %>% 
+  group_by(to_country,
+           year,
+           running_order_final) %>% 
+  summarise(mean_jury_discrepancy = 
+              mean(jury_discrepancy),
+            mean_televote_discrepancy = 
+              mean(televote_discrepancy)) %>% 
+  group_by(running_order_final) %>% 
+  summarise(mean_jury_discrepancy = 
+              mean(mean_jury_discrepancy),
+            mean_televote_discrepancy = 
+              mean(mean_televote_discrepancy)) %>% 
+  ggplot() + 
+  aes(y = mean_jury_discrepancy,
+      x = mean_televote_discrepancy) + 
+  annotate("rect", xmin = Inf, xmax = 0, ymin = Inf, ymax = 0, fill= "#F79256")  + 
+  annotate("rect", xmin = -Inf, xmax = 0, ymin = -Inf, ymax = 0 , fill= "#FBD1A2") + 
+  annotate("rect", xmin = 0, xmax = Inf, ymin = 0, ymax = -Inf, fill= "#7DCFB6") + 
+  annotate("rect", xmin = 0, xmax = -Inf, ymin = Inf, ymax = 0, fill= "#00B2CA") + 
+  geom_point() +
+  geom_hline(yintercept = 0) + 
+  geom_vline(xintercept = 0) + 
+  geom_circle(aes(x0 = 0, y0 = 0, r = .25),
+              inherit.aes = FALSE,
+              fill = "white") + 
+  annotate("text",
+           y = 0.3,
+           x = 0.8,
+           label =  "Televoters and juries \npreferred it in the semi") +
+  annotate("text",
+           y = -0.23,
+           x = 0.8,
+           label =  "Televoters preferred it in the semi,\njuries preferred it in the final ") +
+  annotate("text",
+           y = .3,
+           x = -.5,
+           label =  "Televoters preferred it \nin the final, juries \npreferred it in the semi ") +
+  annotate("text",
+           y = -.23,
+           x = -.5,
+           label =  "Televoters and juries \npreferred it in the final") +
+  annotate("text",
+           x = -0,
+           y = 0,
+           label =  "Televoters and \njuries didn't \nchange their \nminds") +
+  geom_label_repel(aes(label = running_order_final)) + 
+  theme_ipsum_ps() + 
+  labs(y = "Jury",
+       x = "Televote") + 
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank()) + 
+  coord_fixed()
+ggsave("key_graph_16_9.png",
+       width = 16/2,
+       height = 9/2)
+
+
+# best position? fixed coordinate system
+rankings_wide %>% 
+  mutate(jury_discrepancy = 
+           jury_ranking_final - 
+           jury_ranking_semi) %>% 
+  mutate(televote_discrepancy = 
+           televote_ranking_final - 
+           televote_ranking_semi) %>% 
+  select(from_country,
+         to_country,
+         year,
+         jury_discrepancy,
+         televote_discrepancy,
+         running_order_final)  %>% 
+  na.omit %>% 
+  group_by(to_country,
+           year,
+           running_order_final) %>% 
+  summarise(mean_jury_discrepancy = 
+              mean(jury_discrepancy),
+            mean_televote_discrepancy = 
+              mean(televote_discrepancy)) %>% 
+  group_by(running_order_final) %>% 
+  summarise(mean_jury_discrepancy = 
+              mean(mean_jury_discrepancy),
+            mean_televote_discrepancy = 
+              mean(mean_televote_discrepancy)) %>% 
+  ggplot() + 
+  aes(x = mean_jury_discrepancy,
+      y = mean_televote_discrepancy) + 
+  annotate("rect", xmin = Inf, xmax = 0, ymin = Inf, ymax = 0, fill= "#F79256")  + 
+  annotate("rect", xmin = -Inf, xmax = 0, ymin = -Inf, ymax = 0 , fill= "#FBD1A2") + 
+  annotate("rect", xmin = 0, xmax = Inf, ymin = 0, ymax = -Inf, fill= "#7DCFB6") + 
+  annotate("rect", xmin = 0, xmax = -Inf, ymin = Inf, ymax = 0, fill= "#00B2CA") + 
+  geom_point() +
+  geom_hline(yintercept = 0) + 
+  geom_vline(xintercept = 0) + 
+  geom_circle(aes(x0 = 0, y0 = 0, r = .25),
+              inherit.aes = FALSE,
+              fill = "white") + 
+  annotate("text",
+           x = 0.3,
+           y = 0.8,
+           label =  "Televoters and juries \npreferred it in the semi") +
+  annotate("text",
+           x = -0.23,
+           y = 0.8,
+           label =  "Televoters preferred it \nin the semi,\njuries preferred it \nin the final ") +
+  annotate("text",
+           x = .3,
+           y = -.6,
+           label =  "Televoters preferred it \nin the final,\njuries preferred it \nin the semi ") +
+  annotate("text",
+           x = -.23,
+           y = -.6,
+           label =  "Televoters and juries \npreferred it in the final") +
+  annotate("text",
+           x = -0,
+           y = 0,
+           label =  "Televoters and juries \ndidn't change their minds") +
+  geom_label_repel(aes(label = running_order_final)) + 
+  theme_ipsum_ps() + 
+  labs(x = "Jury",
+       y = "Televote") + 
+  theme(panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank())
 
 ### draw figure for discrepancies for finalists
 
@@ -503,8 +643,14 @@ rankings_wide %>%
   ggplot() + 
   aes(x = ranking_semi,
       y = ranking_final) + 
-  annotate(geom = "polygon", x = c(-Inf, Inf, Inf), y = c(-Inf, Inf, -Inf), fill = "#FBD1A2" )+
-  annotate(geom = "polygon", x = c(Inf, -Inf, -Inf), y = c(Inf, -Inf, Inf), fill = "#7DCFB6" )+
+  annotate(geom = "polygon", 
+           x = c(-Inf, Inf, Inf), 
+           y = c(-Inf, Inf, -Inf), 
+           fill = "#FBD1A2" )+
+  annotate(geom = "polygon", 
+           x = c(Inf, -Inf, -Inf), 
+           y = c(Inf, -Inf, Inf), 
+           fill = "#7DCFB6" )+
   geom_point() + 
   facet_grid(group~ year_label) + 
   geom_abline(slope = 1,
@@ -512,10 +658,96 @@ rankings_wide %>%
   theme_ipsum_es() + 
   scale_x_reverse(breaks = c(10:1)) + 
   scale_y_reverse(breaks = c(10:1)) + 
-  theme(panel.grid.major = element_blank(),
-        panel.grid.minor = element_blank()) + 
+  theme(panel.grid.major = 
+          element_blank(),
+        panel.grid.minor = 
+          element_blank()) + 
   labs(x = "Ranking (semi-final)",
        y = "Ranking (final)")
+
+### allow different points for more observations
+
+
+rankings_wide %>% 
+  filter((year == 2016 &
+            to_country == "Armenia") |
+           (year == 2021 &
+              to_country == "San Marino") | 
+           (year == 2022 &
+              to_country == "Estonia")) %>% 
+  mutate(year_label = 
+           case_when(year == 2016 ~ "2016: Armenia",
+                     year == 2021 ~ "2021: San Marino",
+                     year == 2022 ~ "2022: Estonia")) %>% 
+  select(-c(running_order_semi,
+            running_order_final,
+            televote_ranking_semi,
+            televote_ranking_final)) %>% 
+  rename(ranking_semi = 
+           jury_ranking_semi,
+         ranking_final = 
+           jury_ranking_final) %>% 
+  mutate(group = "Jury") %>% 
+  bind_rows(rankings_wide %>% 
+              filter((year == 2016 &
+                        to_country == "Armenia") |
+                       (year == 2021 &
+                          to_country == "San Marino") | 
+                       (year == 2022 &
+                          to_country == "Estonia")) %>% 
+              mutate(year_label = 
+                       case_when(year == 2016 ~ "2016: Armenia",
+                                 year == 2021 ~ "2021: San Marino",
+                                 year == 2022 ~ "2022: Estonia")) %>% 
+              select(-c(running_order_semi,
+                        running_order_final,
+                        jury_ranking_semi,
+                        jury_ranking_final)) %>% 
+              rename(ranking_semi = 
+                       televote_ranking_semi,
+                     ranking_final = 
+                       televote_ranking_final) %>% 
+              mutate(group = "Televote") ) %>% 
+  na.omit %>% 
+  group_by(year_label,
+           ranking_semi,
+           ranking_final,
+           group) %>% 
+  summarise(howmany = n()) %>% 
+  ggplot() + 
+  aes(x = ranking_semi,
+      y = ranking_final,
+      fill = as.factor(howmany)) + 
+  annotate(geom = "polygon", 
+           x = c(-Inf, Inf, Inf), 
+           y = c(-Inf, Inf, -Inf), 
+           fill = "#FBD1A2" )+
+  annotate(geom = "polygon", 
+           x = c(Inf, -Inf, -Inf), 
+           y = c(Inf, -Inf, Inf), 
+           fill = "#7DCFB6" )+
+  geom_abline(slope = 1,
+              intercept = 0) + 
+  geom_point(shape = 21) + 
+  facet_grid(group~ year_label) + 
+  theme_ipsum_es() + 
+  # scale_x_reverse(breaks = c(10:1)) +
+  # scale_y_reverse(breaks = c(10:1)) +
+  scale_x_continuous(breaks = c(1:10)) + 
+  scale_y_continuous(breaks = c(1:10)) +
+  scale_fill_manual(values = c("black",
+                               "gray70",
+                               "white")) +
+  theme(panel.grid.major = 
+          element_blank(),
+        panel.grid.minor = 
+          element_blank(),
+        legend.position = "bottom") + 
+  labs(x = "Ranking (semi-final)",
+       y = "Ranking (final)",
+       fill = "Frequency") + 
+  coord_fixed()
+
 
 
 # stray maths for detail
@@ -613,14 +845,33 @@ rankings_wide %>%
               mutate(group = "Televote") ) %>% 
   mutate(change = 
            ranking_semi - ranking_final) %>% 
-  arrange(change) %>% 
-  filter(group == "Televote")
+  arrange(-change) %>% 
+  filter(group == "Jury")
+
+# look at first position
+rankings_wide %>% 
+  mutate(televote_discrepancy = 
+           (televote_ranking_semi - televote_ranking_final),
+         jury_discrepancy = 
+           (jury_ranking_semi - jury_ranking_final))%>% 
+  filter(running_order_final == 1) %>%
+  na.omit %>% 
+  group_by(year) %>% 
+  summarise(televote_discrepancy = 
+              mean(televote_discrepancy),
+            jury_discrepancy = 
+              mean(jury_discrepancy)) %>% 
+  arrange(televote_discrepancy) 
+
 
 rankings_wide %>% 
   mutate(televote_discrepancy = 
-           (televote_ranking_semi - televote_ranking_final)) %>% 
-  arrange(televote_discrepancy) %>% 
-  filter(running_order_final == 1)
+           (televote_ranking_semi - televote_ranking_final),
+         jury_discrepancy = 
+           (jury_ranking_semi - jury_ranking_final))%>% 
+  filter(running_order_final == 1) %>% 
+  filter(year == 2022) %>% 
+  select(from_country, televote_discrepancy, televote_ranking_semi, televote_ranking_final)
 
 
 rankings_wide %>% 
@@ -688,3 +939,49 @@ rankings_wide %>%
               mean(abs_jury_discrepancy),
             televote = 
               mean(abs_televote_discrepancy))
+
+
+rankings_wide %>% 
+  mutate(televote_discrepancy = 
+           (televote_ranking_semi - televote_ranking_final),
+         jury_discrepancy = 
+           (jury_ranking_semi - jury_ranking_final))%>% 
+  filter(running_order_final == 13) %>% 
+  # filter(year == 2022) %>% 
+  select(from_country, 
+         to_country,
+         televote_discrepancy, jury_discrepancy, 
+         year,
+         televote_ranking_semi, televote_ranking_final,
+         jury_ranking_semi, jury_ranking_final) %>% 
+  arrange(televote_discrepancy) %>% 
+  na.omit %>% 
+  group_by(year) %>% 
+  summarise(televote_discrepancy = 
+           mean(televote_discrepancy),
+           jury_discrepancy = 
+             mean(jury_discrepancy))
+
+# 2016 is interesting
+rankings_wide %>% 
+  mutate(televote_discrepancy = 
+           (televote_ranking_semi - televote_ranking_final),
+         jury_discrepancy = 
+           (jury_ranking_semi - jury_ranking_final))%>% 
+  filter(running_order_final == 13) %>% 
+  filter(year == 2016) %>% 
+  select(from_country, jury_discrepancy, jury_ranking_semi, jury_ranking_final)
+
+all_rankings %>% 
+  filter(year == 2016) %>% 
+  filter(event_type == "semi-final 2") %>% 
+  select(to_country, running_order_position) %>% 
+  distinct()
+
+rankings_wide %>% 
+  filter(year == 2016 &
+           to_country == "Australia") %>% 
+  mutate(jury_discrepancy = 
+           jury_ranking_final - 
+           jury_ranking_semi) %>% 
+  arrange(jury_discrepancy)
