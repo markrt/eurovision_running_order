@@ -3,7 +3,7 @@ What are the implications of final position in Eurovision?
 
 ## Getting the results 
 
-If you're just interested in producing the figures in LINK LINK LINK, you want running_order_position.R. The figures are the ggplots, the table can be found under the comment "stray maths for detail".
+If you're just interested in producing the figures in the [piece](https://escinsight.com/2023/04/06/deeper-look-eurovisions-running-order/) at ESC Insight, you want running_order_position.R. The figures are the ggplots, the table can be found under the comment "stray maths for detail".
 
 ## Nerd stuff (scripts)
 
