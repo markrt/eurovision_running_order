@@ -113,7 +113,7 @@ y_2023_final <-
   bind_rows(get_eurovision_page("https://eurovision.tv/event/liverpool-2023/grand-final/results/united-kingdom",
                                 "United Kingdom"))
 # # 
-
+write_csv(y_2023_final, "y_2023_final.csv")
 y_2023_final 
 
 y_2023_final %>% 
@@ -145,4 +145,33 @@ y_2023_final %>%
   labs(x = "",
        y = "")
 
-theme_ipsum_ps
+y_2023_final %>% 
+  select(to_country,
+         from_country,
+         a:e) %>% 
+  pivot_longer(a:e,
+               names_to = "juror",
+               values_to = "ranking") %>% 
+  na.omit %>% 
+  group_by(to_country) %>% 
+  mutate(mean_ranking = 
+           mean(ranking))%>% 
+  ggplot() + 
+  aes(x = ranking) + 
+  geom_bar() + 
+  geom_vline(xintercept = 
+               10,
+             colour = "powderblue") +
+  facet_wrap(~fct_reorder(to_country,
+                          mean_ranking))  +
+  theme_minimal() +
+  theme(
+    panel.grid.major.y = element_blank(),
+    panel.grid.minor = element_blank(),
+    axis.text.x = element_blank(),
+    axis.text.y = element_blank(),
+    strip.text.x = element_text(size = 8)) +
+  labs(x = "",
+       y = "")
+
+  
